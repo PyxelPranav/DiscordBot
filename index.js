@@ -1,5 +1,6 @@
 const Discord = require('discord.js');
 const { prefix } = require('./config.json');
+const token = process.env.token;
 const client = new Discord.Client();
 
 client.once('ready', () => {
@@ -170,4 +171,4 @@ client.on('message', message => {
 	message.channel.send('Hey! My prefix is ;');
 });
 
-client.login(process.env.token);
+client.login(token);
