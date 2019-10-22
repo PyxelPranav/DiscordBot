@@ -170,4 +170,4 @@ client.on('message', message => {
 	message.channel.send('Hey! My prefix is ;');
 });
 
-client.login(token);
+client.login(process.env.token);
