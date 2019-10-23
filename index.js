@@ -9,7 +9,7 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [40];
+var limes = [45];
 
 // ultra lime manager
 members.push('636109710579204099');
@@ -21,11 +21,11 @@ limes.push(690);
 
 //trev
 members.push('568342089591685120');
-limes.push(100000004);
+limes.push(100000009);
 
 //karma
 members.push('221648732368666627');
-limes.push(700);
+limes.push(705);
 
 //hippyfresh
 members.push('589550662547800064');
@@ -53,7 +53,7 @@ limes.push(5);
 
 //sarah
 members.push('463165936275554304');
-limes.push(400);
+limes.push(422);
 
 //bobe
 members.push('559392459524800514');
@@ -61,7 +61,7 @@ limes.push(5);
 
 //dino
 members.push('281525414520946689');
-limes.push(5);
+limes.push(10);
 
 //im just bacon
 members.push('459849126851510272');
@@ -179,7 +179,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}leaderboard`)) {
-		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - 100000004 limes | __LGA LEGEND__ |\n2. zeke - 1200 limes\n3.Fresh - 1000 limes | __LGA LEGEND__ |\n4. KARMA - 700 limes\n5. Snapple - 690 limes\n*Currently viewing top 5 richest penguins*');
+		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - 100000009 limes | __LGA LEGEND__ |\n2. zeke - 1200 limes\n3.Fresh - 1000 limes | __LGA LEGEND__ |\n4. KARMA - 705 limes\n5. Snapple - 690 limes\n*Currently viewing top 5 richest penguins*');
 	}
 
 	console.log(message.member.id);
