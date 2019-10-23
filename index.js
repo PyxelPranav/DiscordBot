@@ -53,7 +53,7 @@ limes.push(5);
 
 //sarah
 members.push('463165936275554304');
-limes.push(10);
+limes.push(400);
 
 //bobe
 members.push('559392459524800514');
