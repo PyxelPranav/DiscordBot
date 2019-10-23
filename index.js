@@ -9,7 +9,7 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [25];
+var limes = [40];
 
 // ultra lime manager
 members.push('636109710579204099');
@@ -179,7 +179,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}leaderboard`)) {
-		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - 9999999 limes | __LGA LEGEND__ |\n2. zeke - 1200 limes\n3.Fresh - 1000 limes | __LGA LEGEND__ |\n4. KARMA - 700 limes\n5. Snapple - 685 limes\n*Currently viewing top 5 richest penguins*');
+		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - 100000004 limes | __LGA LEGEND__ |\n2. zeke - 1200 limes\n3.Fresh - 1000 limes | __LGA LEGEND__ |\n4. KARMA - 700 limes\n5. Snapple - 690 limes\n*Currently viewing top 5 richest penguins*');
 	}
 
 	console.log(message.member.id);
