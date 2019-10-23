@@ -17,11 +17,11 @@ limes.push(5000);
 
 //snapple
 members.push('270337506581544961');
-limes.push(685);
+limes.push(690);
 
 //trev
 members.push('568342089591685120');
-limes.push(9999999);
+limes.push(100000004);
 
 //karma
 members.push('221648732368666627');
@@ -53,7 +53,7 @@ limes.push(5);
 
 //sarah
 members.push('463165936275554304');
-limes.push(5);
+limes.push(10);
 
 //bobe
 members.push('559392459524800514');
@@ -61,6 +61,14 @@ limes.push(5);
 
 //dino
 members.push('281525414520946689');
+limes.push(5);
+
+//im just bacon
+members.push('459849126851510272');
+limes.push(5);
+
+//miamala
+members.push('541605885374365717');
 limes.push(5);
 
 client.on('message', message => {
