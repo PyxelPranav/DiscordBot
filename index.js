@@ -124,6 +124,14 @@ client.on('message', message => {
 	if(message.content.startsWith(`${prefix}event`)) {
 		message.channel.send('Next event: AUSIA Recruiting\n@ 4 AM PST/7 AM EST/12 PM BST\nReward: 5 limes');
 	}
+	
+	if(message.content.startsWith(`${prefix}ranks`)) {
+		message.channel.send('LGA ranks can be found on this page: https://www.limegreenarmy.com/p/ranks_17.html');
+	}
+	
+	if(message.content.startsWith(`${prefix}uniform`)) {
+		message.channel.send('LGA uniform can be found on this page: https://www.limegreenarmy.com/p/uniform_17.html');	
+	}
 
 	if(message.content.startsWith(`${prefix}addmoney`)) {
 		var member = message.mentions.members.first();
