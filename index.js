@@ -122,7 +122,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('Next event: EU Training\n@ 12PM PST/3PM EST/8PM BST\nReward: 5 limes');
+		message.channel.send('Next event: AUSIA Recruiting\n@ 4 AM PST/7 AM EST/12 PM BST\nReward: 5 limes');
 	}
 
 	if(message.content.startsWith(`${prefix}addmoney`)) {
