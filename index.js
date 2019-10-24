@@ -181,6 +181,62 @@ client.on('message', message => {
 	if(message.content.startsWith(`${prefix}leaderboard`)) {
 		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - 100000009 limes | __LGA LEGEND__ |\n2. zeke - 1200 limes\n3.Fresh - 1000 limes | __LGA LEGEND__ |\n4. KARMA - 705 limes\n5. Snapple - 690 limes\n*Currently viewing top 5 richest penguins*');
 	}
+	
+	if(message.content.startsWith(`${prefix}status`)) {
+		switch(message.member.id) {
+			case '510329448357429280':
+				message.channel.send('Rank in LGA: 7th');
+				break;
+			case '636109710579204099':
+				message.channel.send('Wait, thats me!');
+				break;
+			case '270337506581544961':
+				message.channel.send('Rank in LGA: 5th');
+				break;
+			case '568342089591685120':
+				message.channel.send('Rank in LGA: 1st');
+				break;
+			case '221648732368666627':
+				message.channel.send('Rank in LGA: 4th');
+				break;
+			case '589550662547800064':
+				message.channel.send('Rank in LGA: 3rd');
+				break;
+			case '437016280445222932':
+				message.channel.send('Rank in LGA: 2nd');
+				break;
+			case '312414193259249668':
+				message.channel.send('Rank in LGA: 9th');
+				break;
+			case '320771763237552128':
+				message.channel.send('Rank in LGA: 9th');
+				break;
+			case '616609825224130561':
+				message.channel.send('Rank in LGA: 9th');
+				break;
+			case '422819550992531456':
+				message.channel.send('Rank in LGA: 10th');
+				break;
+			case '463165936275554304':
+				message.channel.send('Rank in LGA: 6th');
+				break;
+			case '281525414520946689':
+				message.channel.send('Rank in LGA: 8th');
+				break;
+			case '459849126851510272':
+				message.channel.send('Rank in LGA: 9th');
+				break;
+			case '559392459524800514':
+				message.channel.send('Rank in LGA: 9th');
+				break;
+			case '541605885374365717':
+				message.channel.send('Rank in LGA: 9th');
+				break;
+			default:
+				message.channel.send('I cant calculate your position in the leaderboards if you have 0 limes!');
+				break;
+		}	
+	}
 
 	console.log(message.member.id);
 
