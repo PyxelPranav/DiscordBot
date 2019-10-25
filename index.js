@@ -122,7 +122,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('Next event: **EPIC 3 WAY PB(US)**\n@ 5 PM PST/8 PM EST/7 PM CST\nReward: 5 limes');
+		message.channel.send('Next event: **EPIC 3 WAY PB(US)**\n@ 5 PM PST/8 PM EST/7 PM CST\nReward: 10 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
