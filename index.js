@@ -17,15 +17,15 @@ limes.push(5000);
 
 //snapple
 members.push('270337506581544961');
-limes.push(690);
+limes.push(700);
 
 //trev
 members.push('568342089591685120');
-limes.push(100000009);
+limes.push(100000019);
 
 //karma
 members.push('221648732368666627');
-limes.push(705);
+limes.push(715);
 
 //hippyfresh
 members.push('589550662547800064');
@@ -53,11 +53,11 @@ limes.push(5);
 
 //sarah
 members.push('463165936275554304');
-limes.push(422);
+limes.push(432);
 
 //bobe
 members.push('559392459524800514');
-limes.push(5);
+limes.push(15);
 
 //dino
 members.push('281525414520946689');
@@ -70,6 +70,18 @@ limes.push(5);
 //miamala
 members.push('541605885374365717');
 limes.push(5);
+
+// jingle
+members.push('307701567019024384');
+limes.push(10);
+
+// miles edgeworth
+members.push('497554422931652608');
+limes.push(10);
+
+// betherzelli
+members.push('504194785288912896');
+limes.push(10);
 
 client.on('message', message => {
 
@@ -210,13 +222,13 @@ client.on('message', message => {
 				message.channel.send('Rank in LGA: 2nd');
 				break;
 			case '312414193259249668':
-				message.channel.send('Rank in LGA: 9th');
+				message.channel.send('Rank in LGA: 10th');
 				break;
 			case '320771763237552128':
-				message.channel.send('Rank in LGA: 9th');
+				message.channel.send('Rank in LGA: 10th');
 				break;
 			case '616609825224130561':
-				message.channel.send('Rank in LGA: 9th');
+				message.channel.send('Rank in LGA: 10th');
 				break;
 			case '422819550992531456':
 				message.channel.send('Rank in LGA: 10th');
@@ -228,12 +240,21 @@ client.on('message', message => {
 				message.channel.send('Rank in LGA: 8th');
 				break;
 			case '459849126851510272':
-				message.channel.send('Rank in LGA: 9th');
+				message.channel.send('Rank in LGA: 10th');
 				break;
 			case '559392459524800514':
-				message.channel.send('Rank in LGA: 9th');
+				message.channel.send('Rank in LGA: 10th');
 				break;
 			case '541605885374365717':
+				message.channel.send('Rank in LGA: 10th');
+				break;
+			case '307701567019024384':
+				message.channel.send('Rank in LGA: 9th');
+				break;
+			case '497554422931652608':
+				message.channel.send('Rank in LGA: 9th');
+				break;
+			case '504194785288912896':
 				message.channel.send('Rank in LGA: 9th');
 				break;
 			default:
