@@ -29,7 +29,7 @@ limes.push(765);
 
 //snapple
 members.push('270337506581544961');
-limes.push(750);
+limes.push(765);
 
 //sarah
 members.push('463165936275554304');
@@ -224,7 +224,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}leaderboard`)) {
-		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - 100000009 limes | __LGA LEGEND__ |\n2. zeke - 1200 limes\n3.Fresh - 1000 limes | __LGA LEGEND__ |\n4. KARMA - 705 limes\n5. Snapple - 690 limes\n*Currently viewing top 5 richest penguins*');
+		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - ' + limes[1] + ' limes | __LGA LEGEND__ |\n2. zeke - ' + limes[2] + ' limes\n3.Fresh - ' + limes[3] + ' limes | __LGA LEGEND__ |\n4. KARMA - ' + limes[4] + ' limes\n5. Snapple - ' + limes[5] + ' limes\n*Currently viewing top 5 richest penguins*');
 	}
 	
 	if(message.content.startsWith(`${prefix}moh`)) {
