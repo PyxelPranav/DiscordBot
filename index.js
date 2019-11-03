@@ -11,65 +11,74 @@ client.once('ready', () => {
 var members = ['510329448357429280'];
 var limes = [45];
 
-// ultra lime manager
-members.push('636109710579204099');
-limes.push(5000);
-
-//snapple
-members.push('270337506581544961');
-limes.push(700);
-
 //trev
 members.push('568342089591685120');
-limes.push(100000019);
-
-//karma
-members.push('221648732368666627');
-limes.push(715);
-
-//hippyfresh
-members.push('589550662547800064');
-limes.push(1000);
+limes.push(100000069);
 
 //zeke
 members.push('437016280445222932');
 limes.push(1200);
 
-//effot
-members.push('312414193259249668');
-limes.push(5);
+//hippyfresh
+members.push('589550662547800064');
+limes.push(1010);
 
-//envolant
-members.push('320771763237552128');
-limes.push(5);
+//karma
+members.push('221648732368666627');
+limes.push(765);
 
-//ajsonic
-members.push('616609825224130561');
-limes.push(5);
-
-//shadow warrior
-members.push('422819550992531456');
-limes.push(5);
+//snapple
+members.push('270337506581544961');
+limes.push(750);
 
 //sarah
 members.push('463165936275554304');
-limes.push(452);
+limes.push(502);
+
+//dino
+members.push('281525414520946689');
+limes.push(40);
+
+//effot
+members.push('312414193259249668');
+limes.push(35);
+
+// betherzelli
+members.push('504194785288912896');
+limes.push(30);
+
+// lavandula
+members.push('328343566482931713');
+limes.push(30);
+
+//holden
+members.push('335742772722270208');
+limes.push(30);
+
+//ajsonic
+members.push('616609825224130561');
+limes.push(25);
+
+// dawnables
+members.push('350088765731241984');
+limes.push(20);
+
+//sienna guac
+members.push('418543492663476227');
+limes.push(20);
+
+//shadow warrior
+members.push('422819550992531456');
+limes.push(15);
 
 //bobe
 members.push('559392459524800514');
 limes.push(15);
 
-//dino
-members.push('281525414520946689');
-limes.push(10);
-
-//im just bacon
-members.push('459849126851510272');
-limes.push(5);
-
 //miamala
 members.push('541605885374365717');
-limes.push(5);
+limes.push(15);
+
 
 // jingle
 members.push('307701567019024384');
@@ -79,9 +88,33 @@ limes.push(10);
 members.push('497554422931652608');
 limes.push(10);
 
-// betherzelli
-members.push('504194785288912896');
+// seanthekill
+members.push('461202532623056917');
 limes.push(10);
+
+//gordon ramsay
+members.push('566066628824137740');
+limes.push(10);
+
+//davo90k
+members.push('534084798419828773');
+limes.push(10);
+
+//nathan the man
+members.push('631216443861499943');
+limes.push(10);
+
+//envolant
+members.push('320771763237552128');
+limes.push(5);
+
+//im just bacon
+members.push('459849126851510272');
+limes.push(5);
+
+// ultra lime manager
+members.push('636109710579204099');
+limes.push(5000);
 
 client.on('message', message => {
 
@@ -134,7 +167,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('Next event: **EPIC 3 WAY PB(US)**\n@ 5 PM PST/8 PM EST/7 PM CST\nReward: 10 limes');
+		message.channel.send('Next event: **Matterhorn Defense!** @3PM EST; Reward - 15 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
@@ -198,69 +231,13 @@ client.on('message', message => {
 		message.channel.send('Medal of Honour recipients are as follows: \nToo44 (2013)\nTom67678 (2013)\nTyler56567 (2013)\nEpicolizard (2013)\nSkyfish (2013)\nWarriorsrevenge (2013)\nMasterTanic (2013)\nPopcorny (2014)\nJustinfortsa (2014)\nAndy21441 (2014)\nEmperor Flor (2014)\nAy12 (2014)\nRyu (2014)\nApollo (2014)\nDunno (2014)\nArceus1296 (2014)\nRedstar (2016)\nSamsungy (2016)\nPikachu624 (2016) \nZeke (2019)');	
 	}
 	
+	if(message.content.startsWith(`${prefix}servers`)) {
+		message.channel.send('LGA Servers - Great White (Capital), Zipline (CPR), Blizzard (CPATG), Matterhorn (CPATG), Rocky Road (CPATG), Fog (CPATG), Summit (CPATG), Ice Box (CPATG), Ice Bank (CPATG), White House (CPATG)');	
+	}
+	
 	if(message.content.startsWith(`${prefix}status`)) {
-		switch(message.member.id) {
-			case '510329448357429280':
-				message.channel.send('Rank in LGA: 7th');
-				break;
-			case '636109710579204099':
-				message.channel.send('Wait, thats me!');
-				break;
-			case '270337506581544961':
-				message.channel.send('Rank in LGA: 5th');
-				break;
-			case '568342089591685120':
-				message.channel.send('Rank in LGA: 1st');
-				break;
-			case '221648732368666627':
-				message.channel.send('Rank in LGA: 4th');
-				break;
-			case '589550662547800064':
-				message.channel.send('Rank in LGA: 3rd');
-				break;
-			case '437016280445222932':
-				message.channel.send('Rank in LGA: 2nd');
-				break;
-			case '312414193259249668':
-				message.channel.send('Rank in LGA: 10th');
-				break;
-			case '320771763237552128':
-				message.channel.send('Rank in LGA: 10th');
-				break;
-			case '616609825224130561':
-				message.channel.send('Rank in LGA: 10th');
-				break;
-			case '422819550992531456':
-				message.channel.send('Rank in LGA: 10th');
-				break;
-			case '463165936275554304':
-				message.channel.send('Rank in LGA: 6th');
-				break;
-			case '281525414520946689':
-				message.channel.send('Rank in LGA: 8th');
-				break;
-			case '459849126851510272':
-				message.channel.send('Rank in LGA: 10th');
-				break;
-			case '559392459524800514':
-				message.channel.send('Rank in LGA: 10th');
-				break;
-			case '541605885374365717':
-				message.channel.send('Rank in LGA: 10th');
-				break;
-			case '307701567019024384':
-				message.channel.send('Rank in LGA: 9th');
-				break;
-			case '497554422931652608':
-				message.channel.send('Rank in LGA: 9th');
-				break;
-			case '504194785288912896':
-				message.channel.send('Rank in LGA: 9th');
-				break;
-			default:
-				message.channel.send('I cant calculate your position in the leaderboards if you have 0 limes!');
-				break;
-		}	
+		var a = members.indexOf(message.member.id);
+		message.channel.send('Rank in LGA - ' + a);
 	}
 
 	console.log(message.member.id);
