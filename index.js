@@ -13,7 +13,7 @@ var limes = [45];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000069);
+limes.push(100000084);
 
 //zeke
 members.push('437016280445222932');
@@ -21,23 +21,35 @@ limes.push(1200);
 
 //hippyfresh
 members.push('589550662547800064');
-limes.push(1010);
+limes.push(1025);
 
 //karma
 members.push('221648732368666627');
-limes.push(765);
+limes.push(795);
 
 //snapple
 members.push('270337506581544961');
-limes.push(765);
+limes.push(780);
 
 //sarah
 members.push('463165936275554304');
-limes.push(502);
+limes.push(517);
+
+// lavandula
+members.push('328343566482931713');
+limes.push(45);
+
+//holden
+members.push('335742772722270208');
+limes.push(45);
 
 //dino
 members.push('281525414520946689');
 limes.push(40);
+
+// dawnables
+members.push('350088765731241984');
+limes.push(35);
 
 //effot
 members.push('312414193259249668');
@@ -47,21 +59,13 @@ limes.push(35);
 members.push('504194785288912896');
 limes.push(30);
 
-// lavandula
-members.push('328343566482931713');
-limes.push(30);
-
-//holden
-members.push('335742772722270208');
-limes.push(30);
+//gordon ramsay
+members.push('566066628824137740');
+limes.push(25);
 
 //ajsonic
 members.push('616609825224130561');
 limes.push(25);
-
-// dawnables
-members.push('350088765731241984');
-limes.push(20);
 
 //sienna guac
 members.push('418543492663476227');
@@ -79,6 +83,9 @@ limes.push(15);
 members.push('541605885374365717');
 limes.push(15);
 
+//doggeagoden
+members.push('588465678571405441');
+limes.push(15);
 
 // jingle
 members.push('307701567019024384');
@@ -88,20 +95,16 @@ limes.push(10);
 members.push('497554422931652608');
 limes.push(10);
 
-// seanthekill
-members.push('461202532623056917');
-limes.push(10);
-
-//gordon ramsay
-members.push('566066628824137740');
-limes.push(10);
-
 //davo90k
 members.push('534084798419828773');
 limes.push(10);
 
 //nathan the man
 members.push('631216443861499943');
+limes.push(10);
+
+// seanthekill
+members.push('461202532623056917');
 limes.push(10);
 
 //envolant
@@ -167,7 +170,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('Next event: **Matterhorn Defense!** 3rd November, 2019 @3PM EST; Reward - 15 limes');
+		message.channel.send('Next event: **AUSIA Practice** 4th November, 2019 @6 AM EST; Reward - 15 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
@@ -237,7 +240,7 @@ client.on('message', message => {
 	
 	if(message.content.startsWith(`${prefix}status`)) {
 		var a = members.indexOf(message.member.id);
-		message.channel.send('Rank in LGA - ' + a);
+		message.channel.send('Rank in LGA: ' + a);
 	}
 
 	console.log(message.member.id);
