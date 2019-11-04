@@ -9,11 +9,11 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [45];
+var limes = [50];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000084);
+limes.push(100000089);
 
 //zeke
 members.push('437016280445222932');
@@ -25,11 +25,11 @@ limes.push(1025);
 
 //karma
 members.push('221648732368666627');
-limes.push(795);
+limes.push(800);
 
 //snapple
 members.push('270337506581544961');
-limes.push(780);
+limes.push(785);
 
 //sarah
 members.push('463165936275554304');
@@ -65,7 +65,7 @@ limes.push(25);
 
 //ajsonic
 members.push('616609825224130561');
-limes.push(25);
+limes.push(30);
 
 //sienna guac
 members.push('418543492663476227');
@@ -113,6 +113,10 @@ limes.push(5);
 
 //im just bacon
 members.push('459849126851510272');
+limes.push(5);
+
+// prragyaa
+members.push('566242994408259585');
 limes.push(5);
 
 // ultra lime manager
