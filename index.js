@@ -9,11 +9,11 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [50];
+var limes = [55];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000089);
+limes.push(100000139);
 
 //zeke
 members.push('437016280445222932');
@@ -25,19 +25,19 @@ limes.push(1025);
 
 //karma
 members.push('221648732368666627');
-limes.push(800);
+limes.push(830);
 
 //snapple
 members.push('270337506581544961');
-limes.push(785);
+limes.push(830);
 
 //sarah
 members.push('463165936275554304');
-limes.push(517);
+limes.push(562);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(45);
+limes.push(75);
 
 //holden
 members.push('335742772722270208');
@@ -49,7 +49,7 @@ limes.push(40);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(35);
+limes.push(50);
 
 //effot
 members.push('312414193259249668');
@@ -57,15 +57,15 @@ limes.push(35);
 
 // betherzelli
 members.push('504194785288912896');
-limes.push(30);
+limes.push(45);
 
 //gordon ramsay
 members.push('566066628824137740');
-limes.push(25);
+limes.push(40);
 
 //ajsonic
 members.push('616609825224130561');
-limes.push(30);
+limes.push(50);
 
 //sienna guac
 members.push('418543492663476227');
@@ -77,7 +77,7 @@ limes.push(15);
 
 //bobe
 members.push('559392459524800514');
-limes.push(15);
+limes.push(45);
 
 //miamala
 members.push('541605885374365717');
@@ -87,9 +87,17 @@ limes.push(15);
 members.push('588465678571405441');
 limes.push(15);
 
+//bregos
+members.push('588465678571405441');
+limes.push(35);
+
+//doggeagoden
+members.push('588465678571405441');
+limes.push(15);
+
 // jingle
 members.push('307701567019024384');
-limes.push(10);
+limes.push(25);
 
 // miles edgeworth
 members.push('497554422931652608');
@@ -97,7 +105,7 @@ limes.push(10);
 
 //davo90k
 members.push('534084798419828773');
-limes.push(10);
+limes.push(25);
 
 //nathan the man
 members.push('631216443861499943');
@@ -113,15 +121,23 @@ limes.push(5);
 
 //im just bacon
 members.push('459849126851510272');
-limes.push(5);
+limes.push(10);
 
 // prragyaa
 members.push('566242994408259585');
-limes.push(10);
+limes.push(15);
 
 // ultra lime manager
 members.push('636109710579204099');
 limes.push(5000);
+
+// retired on day 1
+members.push('538199266607235072');
+limes.push(15);
+
+// too bad
+members.push('446135079996227584');
+limes.push(15);
 
 client.on('message', message => {
 
