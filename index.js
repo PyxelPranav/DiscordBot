@@ -9,11 +9,11 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [55];
+var limes = [70];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000139);
+limes.push(100000154);
 
 //zeke
 members.push('437016280445222932');
@@ -25,11 +25,11 @@ limes.push(1025);
 
 //karma
 members.push('221648732368666627');
-limes.push(830);
+limes.push(845);
 
 //snapple
 members.push('270337506581544961');
-limes.push(830);
+limes.push(845);
 
 //sarah
 members.push('463165936275554304');
@@ -137,6 +137,14 @@ limes.push(15);
 
 // too bad
 members.push('446135079996227584');
+limes.push(15);
+
+//snipershan
+members.push('492711291836956678');
+limes.push(15);
+
+//austin
+members.push('131947629088079872');
 limes.push(15);
 
 client.on('message', message => {
