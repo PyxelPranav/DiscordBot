@@ -19,7 +19,7 @@ limes.push(100000154);
 members.push('437016280445222932');
 limes.push(1200);
 
-//hippyfresh
+//hippiefresh
 members.push('589550662547800064');
 limes.push(1025);
 
@@ -198,7 +198,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('Next event: **AUSIA Practice** 4th November, 2019 @6 AM EST; Reward - 15 limes');
+		message.channel.send('Next events: **Defense of Ice Bank** 6th November @8:30 PM EST\n**Invasion of Rainbow** 7th November @7 AM EST\n**Invasion of Rocky Road** 7th November @11:20 AM EST\n**Defense of Blizzard** 7th November @2:30 PM EST\n**Defense of White House** 7th November @7 PM EST; Reward - 15 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
@@ -263,7 +263,7 @@ client.on('message', message => {
 	}
 	
 	if(message.content.startsWith(`${prefix}servers`)) {
-		message.channel.send('LGA Servers - Great White (Capital), Zipline (CPR), Blizzard (CPATG), Matterhorn (CPATG), Rocky Road (CPATG), Fog (CPATG), Summit (CPATG), Ice Box (CPATG), Ice Bank (CPATG), White House (CPATG)');	
+		message.channel.send('LGA Servers - Great White (Capital), Zipline (CPR), Blizzard (CPATG), Matterhorn (CPATG), Fog (CPATG), Summit (CPATG), Ice Box (CPATG), Ice Bank (CPATG), White House (CPATG), Yeti (CPATG), Blizzard (Penguin World), Freeo (Free Penguin), Nevasca (Free Penguin)');	
 	}
 	
 	if(message.content.startsWith(`${prefix}status`)) {
