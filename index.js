@@ -65,7 +65,7 @@ limes.push(40);
 
 //ajsonic
 members.push('616609825224130561');
-limes.push(50);
+limes.push(65);
 
 //sienna guac
 members.push('418543492663476227');
