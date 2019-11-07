@@ -159,6 +159,10 @@ limes.push(15);
 members.push('474820785291132929');
 limes.push(15);
 
+//Dawnables
+members.push('350088765731241984');
+limes.push(50);
+
 client.on('message', message => {
 
 	if(message.content.startsWith(`${prefix}commands`)) {
