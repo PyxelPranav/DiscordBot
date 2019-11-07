@@ -87,9 +87,9 @@ limes.push(15);
 members.push('588465678571405441');
 limes.push(15);
 
-//bregos
+//blazes
 members.push('588465678571405441');
-limes.push(35);
+limes.push(50);
 
 //doggeagoden
 members.push('588465678571405441');
