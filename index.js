@@ -9,11 +9,11 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [70];
+var limes = [90];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000169);
+limes.push(100000189);
 
 //zeke
 members.push('437016280445222932');
@@ -25,11 +25,11 @@ limes.push(1040);
 
 //karma
 members.push('221648732368666627');
-limes.push(905);
+limes.push(925);
 
 //snapple
 members.push('270337506581544961');
-limes.push(890);
+limes.push(930);
 
 //sarah
 members.push('463165936275554304');
@@ -45,7 +45,7 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(40);
+limes.push(60);
 
 // dawnables
 members.push('350088765731241984');
@@ -65,7 +65,7 @@ limes.push(40);
 
 //ajsonic
 members.push('616609825224130561');
-limes.push(65);
+limes.push(85);
 
 //sienna guac
 members.push('418543492663476227');
@@ -97,7 +97,7 @@ limes.push(15);
 
 // jingle
 members.push('307701567019024384');
-limes.push(25);
+limes.push(45);
 
 // miles edgeworth
 members.push('497554422931652608');
@@ -166,6 +166,10 @@ limes.push(15);
 //Blazes
 members.push('351721870917238784');
 limes.push(80);
+
+// ADAM SALAH
+members.push('595208635009990679');
+limes.push(35);
 
 client.on('message', message => {
 
