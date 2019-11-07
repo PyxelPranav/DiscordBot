@@ -13,7 +13,7 @@ var limes = [90];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000189);
+limes.push(100000204);
 
 //zeke
 members.push('437016280445222932');
@@ -25,15 +25,15 @@ limes.push(1040);
 
 //karma
 members.push('221648732368666627');
-limes.push(925);
+limes.push(940);
 
 //snapple
 members.push('270337506581544961');
-limes.push(930);
+limes.push(925);
 
 //sarah
 members.push('463165936275554304');
-limes.push(637);
+limes.push(652);
 
 // lavandula
 members.push('328343566482931713');
@@ -77,11 +77,11 @@ limes.push(15);
 
 //bobe
 members.push('559392459524800514');
-limes.push(60);
+limes.push(75);
 
 //miamala
 members.push('541605885374365717');
-limes.push(15);
+limes.push(30);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -125,7 +125,7 @@ limes.push(25);
 
 // prragyaa
 members.push('566242994408259585');
-limes.push(40);
+limes.push(55);
 
 // ultra lime manager
 members.push('636109710579204099');
@@ -161,7 +161,7 @@ limes.push(15);
 
 //Tymatt
 members.push('305564823356178432');
-limes.push(15);
+limes.push(30);
 
 //Blazes
 members.push('351721870917238784');
@@ -170,6 +170,18 @@ limes.push(80);
 // ADAM SALAH
 members.push('595208635009990679');
 limes.push(35);
+
+// Vacuum
+members.push('383697086098702337');
+limes.push(15);
+
+// Lana
+members.push('207583953446633473');
+limes.push(15);
+
+// Creevey the Kitten
+members.push('298510008709283844');
+limes.push(15);
 
 client.on('message', message => {
 
