@@ -222,7 +222,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('Next events: **Invasion of Rainbow** 7th November @7 AM EST; Reward - 15 limes\n**Invasion of Rocky Road** 7th November @11:20 AM EST; Reward - 15 limes\n**Defense of Blizzard** 7th November @2:30 PM EST; Reward - 15 limes\n**Defense of White House** 7th November @7 PM EST; Reward - 15 limes');
+		message.channel.send('Next events: **Invasion of Rocky Road** 7th November @11:20 AM EST; Reward - 15 limes\n**Defense of Blizzard** 7th November @2:30 PM EST; Reward - 15 limes\n**Defense of White House** 7th November @7 PM EST; Reward - 15 limes\n**Invasion of Sleet** 8th November @11 AM EST');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
