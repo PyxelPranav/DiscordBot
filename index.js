@@ -13,7 +13,7 @@ var limes = [70];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000154);
+limes.push(100000169);
 
 //zeke
 members.push('437016280445222932');
@@ -21,23 +21,23 @@ limes.push(1200);
 
 //hippiefresh
 members.push('589550662547800064');
-limes.push(1025);
+limes.push(1040);
 
 //karma
 members.push('221648732368666627');
-limes.push(890);
+limes.push(905);
 
 //snapple
 members.push('270337506581544961');
-limes.push(875);
+limes.push(890);
 
 //sarah
 members.push('463165936275554304');
-limes.push(562);
+limes.push(577);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(75);
+limes.push(90);
 
 //holden
 members.push('335742772722270208');
@@ -77,7 +77,7 @@ limes.push(15);
 
 //bobe
 members.push('559392459524800514');
-limes.push(45);
+limes.push(60);
 
 //miamala
 members.push('541605885374365717');
@@ -121,7 +121,7 @@ limes.push(5);
 
 //im just bacon
 members.push('459849126851510272');
-limes.push(10);
+limes.push(25);
 
 // prragyaa
 members.push('566242994408259585');
@@ -145,6 +145,14 @@ limes.push(15);
 
 //austin
 members.push('131947629088079872');
+limes.push(15);
+
+//robloxgamer1
+members.push('474143572073906195');
+limes.push(15);
+
+//hwyl
+members.push('640994547966410772');
 limes.push(15);
 
 client.on('message', message => {
