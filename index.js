@@ -163,6 +163,10 @@ limes.push(15);
 members.push('305564823356178432');
 limes.push(15);
 
+//Blazes
+members.push('351721870917238784');
+limes.push(80);
+
 client.on('message', message => {
 
 	if(message.content.startsWith(`${prefix}commands`)) {
