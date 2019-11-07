@@ -125,7 +125,7 @@ limes.push(25);
 
 // prragyaa
 members.push('566242994408259585');
-limes.push(15);
+limes.push(40);
 
 // ultra lime manager
 members.push('636109710579204099');
