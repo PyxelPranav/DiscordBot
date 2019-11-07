@@ -45,7 +45,7 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(60);
+limes.push(310);
 
 // dawnables
 members.push('350088765731241984');
