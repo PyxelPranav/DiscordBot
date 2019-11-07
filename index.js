@@ -159,6 +159,10 @@ limes.push(15);
 members.push('474820785291132929');
 limes.push(15);
 
+//Tymatt
+members.push('305564823356178432');
+limes.push(15);
+
 client.on('message', message => {
 
 	if(message.content.startsWith(`${prefix}commands`)) {
