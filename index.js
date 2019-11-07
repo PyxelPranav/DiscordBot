@@ -155,6 +155,10 @@ limes.push(15);
 members.push('640994547966410772');
 limes.push(15);
 
+//cameron kobara
+members.push('474820785291132929');
+limes.push(15);
+
 client.on('message', message => {
 
 	if(message.content.startsWith(`${prefix}commands`)) {
