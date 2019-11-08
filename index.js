@@ -13,7 +13,7 @@ var limes = [90];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000219);
+limes.push(100000234);
 
 //zeke
 members.push('437016280445222932');
@@ -21,23 +21,23 @@ limes.push(1200);
 
 //hippiefresh
 members.push('589550662547800064');
-limes.push(1040);
+limes.push(1055);
 
 //karma
 members.push('221648732368666627');
-limes.push(955);
+limes.push(970);
 
 //snapple
 members.push('270337506581544961');
-limes.push(940);
+limes.push(955);
 
 //sarah
 members.push('463165936275554304');
-limes.push(667);
+limes.push(682);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(90);
+limes.push(105);
 
 //holden
 members.push('335742772722270208');
@@ -49,7 +49,7 @@ limes.push(325);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(50);
+limes.push(65);
 
 //effot
 members.push('312414193259249668');
@@ -57,11 +57,11 @@ limes.push(35);
 
 // betherzelli
 members.push('504194785288912896');
-limes.push(60);
+limes.push(75);
 
 //gordon ramsay
 members.push('566066628824137740');
-limes.push(55);
+limes.push(70);
 
 //ajsonic
 members.push('616609825224130561');
@@ -77,7 +77,7 @@ limes.push(15);
 
 //bobe
 members.push('559392459524800514');
-limes.push(90);
+limes.push(105);
 
 //miamala
 members.push('541605885374365717');
@@ -97,7 +97,7 @@ limes.push(15);
 
 // jingle
 members.push('307701567019024384');
-limes.push(45);
+limes.push(60);
 
 // miles edgeworth
 members.push('497554422931652608');
@@ -121,7 +121,7 @@ limes.push(5);
 
 //im just bacon
 members.push('459849126851510272');
-limes.push(25);
+limes.push(40);
 
 // prragyaa
 members.push('566242994408259585');
@@ -157,11 +157,11 @@ limes.push(15);
 
 //cameron kobara
 members.push('474820785291132929');
-limes.push(15);
+limes.push(30);
 
 //Tymatt
 members.push('305564823356178432');
-limes.push(45);
+limes.push(60);
 
 //Blazes
 members.push('351721870917238784');
@@ -234,7 +234,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('Next events: **Defense of White House** 7th November @7 PM EST; Reward - 15 limes\n**Invasion of Sleet** 8th November @11 AM EST; Reward - 15 limes');
+		message.channel.send('Next events: **Invasion of Sleet** 8th November @11 AM EST; Reward - 15 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
