@@ -9,7 +9,7 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [90];
+var limes = [105];
 
 //trev
 members.push('568342089591685120');
@@ -25,11 +25,11 @@ limes.push(1055);
 
 //karma
 members.push('221648732368666627');
-limes.push(970);
+limes.push(985);
 
 //snapple
 members.push('270337506581544961');
-limes.push(955);
+limes.push(970);
 
 //sarah
 members.push('463165936275554304');
@@ -77,19 +77,15 @@ limes.push(15);
 
 //bobe
 members.push('559392459524800514');
-limes.push(105);
+limes.push(120);
 
 //miamala
 members.push('541605885374365717');
-limes.push(45);
+limes.push(60);
 
 //doggeagoden
 members.push('588465678571405441');
 limes.push(15);
-
-//blazes
-members.push('588465678571405441');
-limes.push(50);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -121,7 +117,7 @@ limes.push(5);
 
 //im just bacon
 members.push('459849126851510272');
-limes.push(40);
+limes.push(55);
 
 // prragyaa
 members.push('566242994408259585');
@@ -161,11 +157,11 @@ limes.push(30);
 
 //Tymatt
 members.push('305564823356178432');
-limes.push(60);
+limes.push(75);
 
 //Blazes
 members.push('351721870917238784');
-limes.push(80);
+limes.push(95);
 
 // ADAM SALAH
 members.push('595208635009990679');
@@ -182,6 +178,10 @@ limes.push(15);
 // Creevey the Kitten
 members.push('298510008709283844');
 limes.push(15);
+
+// Parker.
+members.push('184142231161012224');
+limes.push(30);
 
 client.on('message', message => {
 
@@ -234,7 +234,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('Next events: **Invasion of Sleet** 8th November @11 AM EST; Reward - 15 limes');
+		message.channel.send('__Upcoming events__\n**Defense of Ice Bank** 8th November @7 PM EST; Reward - 15 limes\n**Defense of Rainbow** 8th November @8 PM EST; Reward - 15 limes\n**Defense of Rocky Road** 9th November @12 AM EST, 8th November @9 PM EST; Reward - 15 limes\n**Defense of Matterhorn** 9th November @2 PM EST; Reward - 15 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
