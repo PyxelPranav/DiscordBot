@@ -238,7 +238,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('__Upcoming events__\n**Defense of Ice Bank** 8th November @7 PM EST; Reward - 15 limes\n**Defense of Rainbow** 8th November @8 PM EST; Reward - 15 limes\n**Defense of Rocky Road** 9th November @12 AM EST, 8th November @9 PM EST; Reward - 15 limes\n**Defense of Matterhorn** 9th November @2 PM EST; Reward - 15 limes');
+		message.channel.send('__Upcoming events__\n**Defense of Ice Bank** 8th November @7 PM EST; Reward - 15 limes\n**Defense of Rainbow** 8th November @8 PM EST; Reward - 15 limes\n**Defense of Rocky Road** 9th November @12 AM EST, 8th November @9 PM EST; Reward - 15 limes\n**Defense of Matterhorn** 9th November @2 PM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
