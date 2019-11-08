@@ -183,6 +183,10 @@ limes.push(15);
 members.push('184142231161012224');
 limes.push(30);
 
+// lenny
+members.push('642400947829604387');
+limes.push(15);
+
 client.on('message', message => {
 
 	if(message.content.startsWith(`${prefix}commands`)) {
