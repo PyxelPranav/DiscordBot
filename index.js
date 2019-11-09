@@ -13,27 +13,27 @@ var limes = [105];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000259);
+limes.push(100000274);
 
 //zeke
 members.push('437016280445222932');
-limes.push(1200);
+limes.push(1215);
 
 //hippiefresh
 members.push('589550662547800064');
-limes.push(1055);
+limes.push(1070);
 
 //karma
 members.push('221648732368666627');
-limes.push(1020);
+limes.push(1035);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1005);
+limes.push(1020);
 
 //sarah
 members.push('463165936275554304');
-limes.push(723);
+limes.push(738);
 
 // lavandula
 members.push('328343566482931713');
@@ -45,11 +45,11 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(350);
+limes.push(365);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(90);
+limes.push(105);
 
 //effot
 members.push('312414193259249668');
@@ -81,7 +81,7 @@ limes.push(555);
 
 //miamala
 members.push('541605885374365717');
-limes.push(60);
+limes.push(75);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -238,7 +238,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('__Upcoming events__\n**Defense of Matterhorn** 9th November @2 PM EST; Reward - 15 limes\n**Defense of Blizzard** 9th November @10 PM EST; Reward - 15 limes\n**Invasion of Sleet** 11th November @6 AM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes');
+		message.channel.send('__Upcoming events__\n**Defense of Blizzard** 9th November @10 PM EST; Reward - 15 limes\n**Defense of Fog** 10th November @12:20 AM EST (9:20 PM PST 9th Nov.); Reward - 15 limes\n**Invasion of Rocky Road** @6 AM EST; Reward - 15 limes\n*Invasion of Sleet** 11th November @6 AM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
