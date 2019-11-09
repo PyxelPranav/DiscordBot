@@ -238,7 +238,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('__Upcoming events__\n**Defense of Rocky Road** 9th November @12 AM EST, 8th November @9 PM EST; Reward - 15 limes\n**Defense of Matterhorn** 9th November @2 PM EST; Reward - 15 limes\n**Defense of Blizzard** 9th November @10 PM EST; Reward - 15 limes\n**Invasion of Sleet** 11th November @6 AM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST');
+		message.channel.send('__Upcoming events__\n**Defense of Rocky Road** 9th November @12 AM EST, 8th November @9 PM EST; Reward - 15 limes\n**Defense of Matterhorn** 9th November @2 PM EST; Reward - 15 limes\n**Defense of Blizzard** 9th November @10 PM EST; Reward - 15 limes\n**Invasion of Sleet** 11th November @6 AM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
@@ -299,7 +299,7 @@ client.on('message', message => {
 	}
 	
 	if(message.content.startsWith(`${prefix}moh`)) {
-		message.channel.send('Medal of Honour recipients are as follows: \nToo44 (2013)\nTom67678 (2013)\nTyler56567 (2013)\nEpicolizard (2013)\nSkyfish (2013)\nWarriorsrevenge (2013)\nMasterTanic (2013)\nPopcorny (2014)\nJustinfortsa (2014)\nAndy21441 (2014)\nEmperor Flor (2014)\nAy12 (2014)\nRyu (2014)\nApollo (2014)\nDunno (2014)\nArceus1296 (2014)\nRedstar (2016)\nSamsungy (2016)\nPikachu624 (2016) \nZeke (2019)');	
+		message.channel.send('Medal of Honour recipients are as follows: \nToo44 (2013)\nTom67678 (2013)\nTyler56567 (2013)\nEpicolizard (2013)\nSkyfish (2013)\nWarriorsrevenge (2013)\nMasterTanic (2013)\nPopcorny (2014)\nJustinfortsa (2014)\nAndy21441 (2014)\nEmperor Flor (2014)\nAy12 (2014)\nRyu (2014)\nApollo (2014)\nDunno (2014)\nArceus1296 (2014)\nRedstar (2016)\nSamsungy (2016)\nPikachu624 (2016) \nZeke (2019)\nKarma (2019)');	
 	}
 	
 	if(message.content.startsWith(`${prefix}servers`)) {
