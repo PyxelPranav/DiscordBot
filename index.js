@@ -25,19 +25,19 @@ limes.push(1055);
 
 //karma
 members.push('221648732368666627');
-limes.push(995);
+limes.push(1005);
 
 //snapple
 members.push('270337506581544961');
-limes.push(980);
+limes.push(995);
 
 //sarah
 members.push('463165936275554304');
-limes.push(692);
+limes.push(707);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(115);
+limes.push(130);
 
 //holden
 members.push('335742772722270208');
@@ -45,11 +45,11 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(335);
+limes.push(350);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(75);
+limes.push(90);
 
 //effot
 members.push('312414193259249668');
@@ -77,7 +77,7 @@ limes.push(15);
 
 //bobe
 members.push('559392459524800514');
-limes.push(130);
+limes.push(555);
 
 //miamala
 members.push('541605885374365717');
@@ -113,7 +113,7 @@ limes.push(5);
 
 //im just bacon
 members.push('459849126851510272');
-limes.push(55);
+limes.push(70);
 
 // prragyaa
 members.push('566242994408259585');
@@ -157,7 +157,7 @@ limes.push(75);
 
 //Blazes
 members.push('351721870917238784');
-limes.push(105);
+limes.push(120);
 
 // ADAM SALAH
 members.push('595208635009990679');
@@ -165,7 +165,7 @@ limes.push(35);
 
 // Lawn Mower
 members.push('383697086098702337');
-limes.push(25);
+limes.push(40);
 
 // Lana
 members.push('207583953446633473');
@@ -181,6 +181,10 @@ limes.push(30);
 
 // lenny
 members.push('642400947829604387');
+limes.push(15);
+
+// Austin
+members.push('131947629088079872');
 limes.push(15);
 
 client.on('message', message => {
@@ -234,7 +238,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('__Upcoming events__\n**Defense of Rainbow** 8th November @8 PM EST; Reward - 15 limes\n**Defense of Rocky Road** 9th November @12 AM EST, 8th November @9 PM EST; Reward - 15 limes\n**Defense of Matterhorn** 9th November @2 PM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST');
+		message.channel.send('__Upcoming events__\n**Defense of Rocky Road** 9th November @12 AM EST, 8th November @9 PM EST; Reward - 15 limes\n**Defense of Matterhorn** 9th November @2 PM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
