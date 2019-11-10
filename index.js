@@ -9,7 +9,7 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [105];
+var limes = [120];
 
 //trev
 members.push('568342089591685120');
@@ -25,15 +25,15 @@ limes.push(1070);
 
 //karma
 members.push('221648732368666627');
-limes.push(1050);
+limes.push(1065);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1035);
+limes.push(1050);
 
 //sarah
 members.push('463165936275554304');
-limes.push(757);
+limes.push(772);
 
 // lavandula
 members.push('328343566482931713');
@@ -117,7 +117,7 @@ limes.push(70);
 
 // prragyaa
 members.push('566242994408259585');
-limes.push(55);
+limes.push(70);
 
 // ultra lime manager
 members.push('636109710579204099');
@@ -242,7 +242,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('__Upcoming events__\n**Invasion of Rocky Road** 10th November @6 AM EST; Reward - 15 limes\n**Defense of Belly Slide** 10th November @3 PM EST; Reward - 15 limes\n**Invasion of Sleet** 11th November @6 AM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes');
+		message.channel.send('__Upcoming events__\n**Defense of Belly Slide** 10th November @3 PM EST; Reward - 15 limes\n**Invasion of Sleet** 11th November @6 AM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
