@@ -13,7 +13,7 @@ var limes = [105];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000274);
+limes.push(100000289);
 
 //zeke
 members.push('437016280445222932');
@@ -25,19 +25,19 @@ limes.push(1070);
 
 //karma
 members.push('221648732368666627');
-limes.push(1035);
+limes.push(1050);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1020);
+limes.push(1035);
 
 //sarah
 members.push('463165936275554304');
-limes.push(740);
+limes.push(757);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(145);
+limes.push(160);
 
 //holden
 members.push('335742772722270208');
@@ -45,11 +45,11 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(365);
+limes.push(380);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(105);
+limes.push(120);
 
 //effot
 members.push('312414193259249668');
@@ -149,7 +149,7 @@ limes.push(15);
 
 //cameron kobara
 members.push('474820785291132929');
-limes.push(30);
+limes.push(45);
 
 //Tymatt
 members.push('305564823356178432');
@@ -185,6 +185,10 @@ limes.push(15);
 
 // Austin
 members.push('131947629088079872');
+limes.push(15);
+
+// danicic31
+members.push('561333071236956181');
 limes.push(15);
 
 client.on('message', message => {
@@ -238,7 +242,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('__Upcoming events__\n**Defense of Blizzard** 9th November @10 PM EST; Reward - 15 limes\n**Defense of Fog** 10th November @12:20 AM EST (9:20 PM PST 9th Nov.); Reward - 15 limes\n**Invasion of Rocky Road** @6 AM EST; Reward - 15 limes\n*Invasion of Sleet** 11th November @6 AM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes');
+		message.channel.send('__Upcoming events__\n**Defense of Fog** 10th November @12:20 AM EST (9:20 PM PST 9th Nov.); Reward - 15 limes\n**Invasion of Rocky Road** @6 AM EST; Reward - 15 limes\n**Defense of Belly Slide** 10th November @3 PM EST; Reward - 15 limes\n*Invasion of Sleet** 11th November @6 AM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
