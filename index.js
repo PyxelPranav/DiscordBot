@@ -13,23 +13,23 @@ var limes = [120];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000289);
+limes.push(100000304);
 
 //zeke
 members.push('437016280445222932');
-limes.push(1215);
+limes.push(1230);
 
 //hippiefresh
 members.push('589550662547800064');
-limes.push(1070);
+limes.push(1085);
 
 //karma
 members.push('221648732368666627');
-limes.push(1065);
+limes.push(1080);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1050);
+limes.push(1065);
 
 //sarah
 members.push('463165936275554304');
@@ -37,7 +37,7 @@ limes.push(772);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(160);
+limes.push(175);
 
 //holden
 members.push('335742772722270208');
@@ -45,7 +45,7 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(380);
+limes.push(395);
 
 // dawnables
 members.push('350088765731241984');
@@ -57,7 +57,7 @@ limes.push(35);
 
 // betherzelli
 members.push('504194785288912896');
-limes.push(75);
+limes.push(90);
 
 //gordon ramsay
 members.push('566066628824137740');
@@ -81,7 +81,7 @@ limes.push(555);
 
 //miamala
 members.push('541605885374365717');
-limes.push(75);
+limes.push(90);
 
 //doggeagoden
 members.push('588465678571405441');
