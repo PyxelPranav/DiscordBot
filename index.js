@@ -79,7 +79,7 @@ limes.push(15);
 members.push('559392459524800514');
 limes.push(555);
 
-//miamala
+//miamiala
 members.push('541605885374365717');
 limes.push(90);
 
@@ -165,7 +165,7 @@ limes.push(35);
 
 // Lawn Mower
 members.push('383697086098702337');
-limes.push(40);
+limes.push(55);
 
 // Lana
 members.push('207583953446633473');
@@ -173,7 +173,7 @@ limes.push(15);
 
 // Creevey the Kitten
 members.push('298510008709283844');
-limes.push(15);
+limes.push(30);
 
 // Parker.
 members.push('184142231161012224');
@@ -189,6 +189,14 @@ limes.push(15);
 
 // danicic31
 members.push('561333071236956181');
+limes.push(30);
+
+// Arnor
+members.push('332881071052029954');
+limes.push(15);
+
+// djzach
+members.push('400120958121410561');
 limes.push(15);
 
 client.on('message', message => {
@@ -242,7 +250,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('__Upcoming events__\n**Defense of Belly Slide** 10th November @3 PM EST; Reward - 15 limes\n**Defense of Yeti** 10th November @11:10 PM EST; Reward - 15 limes\n**Invasion of Sleet** 11th November @6 AM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes');
+		message.channel.send('__Upcoming events__\n**Defense of Yeti** 10th November @11:10 PM EST; Reward - 15 limes\n**Invasion of Sleet** 11th November @6 AM EST; Reward - 15 limes\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
