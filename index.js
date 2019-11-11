@@ -220,7 +220,7 @@ client.on('message', message => {
 	
 	if(message.content.startsWith(`${prefix}bal`)) {
 		var money = eco.FetchBalance(UserID);
-		message.channel.send(money);
+		message.channel.send('u have' + money);
 	}	
 
 	if(message.content.startsWith(`${prefix}commands`)) {
