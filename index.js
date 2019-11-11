@@ -334,6 +334,14 @@ client.on('message', message => {
 		message.channel.send('LGA Servers - Great White (Capital), Zipline (CPR), Summit (CPATG), Ice Box (CPATG), Yeti (CPATG), Rocky Road (CPATG), Blizzard (Penguin World), Freeo (Free Penguin), Nevasca (Free Penguin)');	
 	}
 	
+	if(message.content.startsWith(`${prefix}pray`)) {
+		message.channel.send('Your prayer has been heard by the prophets. now they gonna see if its real or not lmao just gotta wait');	
+	}
+	
+	if(message.content.startsWith(`${prefix}mission`)) {
+		message.channel.send('**Mother Lime**\nNovember Mission: 1000 prayers\nProgress: 0% [                     ]\nPrayer stats are updated every hour');	
+	}
+	
 	if(message.content.startsWith(`${prefix}status`)) {
 		var a = members.indexOf(message.member.id);
 		message.channel.send('Rank in LGA: ' + a);
