@@ -21,19 +21,19 @@ limes.push(1230);
 
 //hippiefresh
 members.push('589550662547800064');
-limes.push(1100);
+limes.push(1115);
 
 //karma
 members.push('221648732368666627');
-limes.push(1080);
+limes.push(1110);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1080);
+limes.push(1095);
 
 //sarah
 members.push('463165936275554304');
-limes.push(787);
+limes.push(802);
 
 // lavandula
 members.push('328343566482931713');
@@ -49,7 +49,7 @@ limes.push(410);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(135);
+limes.push(150);
 
 //effot
 members.push('312414193259249668');
@@ -201,7 +201,7 @@ limes.push(15);
 
 // *Coke*
 members.push('594339713339621386');
-limes.push(15);
+limes.push(30);
 
 // the pinger
 members.push('604719429284265995');
