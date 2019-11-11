@@ -7,6 +7,8 @@ client.once('ready', () => {
 	console.log('Ready!');
 });
 
+var eco = require('discord-economy')
+
 // pyxelpranav
 var members = ['510329448357429280'];
 var limes = [135];
@@ -212,6 +214,14 @@ members.push('351830700007227393');
 limes.push(15);
 
 client.on('message', message => {
+	if(message.content.startsWith(`${prefix}test`)) {
+		eco.setBalance('510329448357429280', '50');
+	}
+	
+	if(message.content.startsWith(`${prefix}bal`)) {
+		var money = eco.FetchBalance(UserID);
+		message.channel.send(money);
+	}	
 
 	if(message.content.startsWith(`${prefix}commands`)) {
 		message.channel.send('**Ultra Lime Manager Commands**\n--------------------------------------\n;balance - Check your balance\n;event - Check the upcoming event\n;acc <user> - Checks the amount of limes in that users account\n;commands - Open up the commands list\n;help - Open up the commands list\n;bio <legend> - View the bio of an LGA legend\n;leaderboard - View the lime leaderboard\n;ranks - View LGA ranks\n;uniform - View LGA uniform\n;status - View your rank in LGA\n;moh - View the recipients of the Medal of Honour\n;servers - View the territory of Lime Green Nation');
