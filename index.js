@@ -15,11 +15,11 @@ var limes = [135];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000319);
+limes.push(100000334);
 
 //zeke
 members.push('437016280445222932');
-limes.push(1230);
+limes.push(1245);
 
 //hippiefresh
 members.push('589550662547800064');
@@ -27,15 +27,15 @@ limes.push(1115);
 
 //karma
 members.push('221648732368666627');
-limes.push(1125);
+limes.push(1140);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1110);
+limes.push(1125);
 
 //sarah
 members.push('463165936275554304');
-limes.push(817);
+limes.push(832);
 
 // lavandula
 members.push('328343566482931713');
@@ -47,11 +47,11 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(410);
+limes.push(425);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(165);
+limes.push(180);
 
 //effot
 members.push('312414193259249668');
@@ -63,7 +63,7 @@ limes.push(90);
 
 //gordon ramsay
 members.push('566066628824137740');
-limes.push(70);
+limes.push(85);
 
 //ajsonic
 members.push('616609825224130561');
@@ -83,7 +83,7 @@ limes.push(555);
 
 //miamiala
 members.push('541605885374365717');
-limes.push(105);
+limes.push(120);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -183,7 +183,7 @@ limes.push(30);
 
 // Skribbla
 members.push('642400947829604387');
-limes.push(15);
+limes.push(30);
 
 // Austin
 members.push('131947629088079872');
@@ -199,7 +199,7 @@ limes.push(15);
 
 // djzach
 members.push('400120958121410561');
-limes.push(15);
+limes.push(30);
 
 // *Coke*
 members.push('594339713339621386');
@@ -212,6 +212,22 @@ limes.push(15);
 // Tylund
 members.push('351830700007227393');
 limes.push(15);
+
+// Swifter
+members.push('376145282683109379');
+limes.push(15);
+
+// jester devil
+members.push('347726192113352705');
+limes.push(15);
+
+// Racc
+members.push('167371276879527936');
+limes.push(15);
+
+// willtreaty5
+members.push('525068062689329175');
+limes.push(45);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}test`)) {
@@ -272,7 +288,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('__Upcoming events__\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes\n**Defense of Summit** 11th November @11:12 PM EST; Reward - 15 limes\n**Defense of Rocky Road** 12th November @12 AM EST; Reward - 15 limes');
+		message.channel.send('__Upcoming events__\nThere are no upcoming events at the moment.');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
