@@ -297,7 +297,11 @@ client.on('message', message => {
 	if(message.content.startsWith(`${prefix}underprior`)) {
 		message.channel.send('You expire. ( ͡° ͜ʖ ͡°)');
 	}
-
+	
+	if(message.content.startsWith(`${prefix}who is joe`)) {
+		message.channel.send('joe mama');	
+	}
+	
 	if(message.content.startsWith(`${prefix}bio greeny`))  {
 		message.channel.send('**Greeny(2013)**\nHaving been apart of every official LGA generation to-date, Greeny15390 started his journey in the Lime Green Army at their creation on April 5th, 2013. He was leading during both their runs in 2014 and brought LGA back during the summer of 2016 and once again during the summer of 2019.');
 	}
