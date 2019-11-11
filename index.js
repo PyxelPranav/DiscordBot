@@ -327,7 +327,7 @@ client.on('message', message => {
 	}
 	
 	if(message.content.startsWith(`${prefix}servers`)) {
-		message.channel.send('LGA Servers - Great White (Capital), Zipline (CPR), Blizzard (CPATG), Matterhorn (CPATG), Fog (CPATG), Summit (CPATG), Ice Box (CPATG), Ice Bank (CPATG), White House (CPATG), Yeti (CPATG), Rainbow (CPATG), Rocky Road (CPATG), Blizzard (Penguin World), Freeo (Free Penguin), Nevasca (Free Penguin)');	
+		message.channel.send('LGA Servers - Great White (Capital), Zipline (CPR), Summit (CPATG), Ice Box (CPATG), Yeti (CPATG), Rocky Road (CPATG), Blizzard (Penguin World), Freeo (Free Penguin), Nevasca (Free Penguin)');	
 	}
 	
 	if(message.content.startsWith(`${prefix}status`)) {
