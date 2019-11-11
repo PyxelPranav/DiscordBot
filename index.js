@@ -9,11 +9,11 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [120];
+var limes = [135];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000304);
+limes.push(100000319);
 
 //zeke
 members.push('437016280445222932');
@@ -25,15 +25,15 @@ limes.push(1115);
 
 //karma
 members.push('221648732368666627');
-limes.push(1110);
+limes.push(1125);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1095);
+limes.push(1110);
 
 //sarah
 members.push('463165936275554304');
-limes.push(802);
+limes.push(817);
 
 // lavandula
 members.push('328343566482931713');
@@ -49,7 +49,7 @@ limes.push(410);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(150);
+limes.push(165);
 
 //effot
 members.push('312414193259249668');
@@ -65,7 +65,7 @@ limes.push(70);
 
 //ajsonic
 members.push('616609825224130561');
-limes.push(85);
+limes.push(100);
 
 //sienna guac
 members.push('418543492663476227');
@@ -81,7 +81,7 @@ limes.push(555);
 
 //miamiala
 members.push('541605885374365717');
-limes.push(90);
+limes.push(105);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -117,7 +117,7 @@ limes.push(70);
 
 // prragyaa
 members.push('566242994408259585');
-limes.push(70);
+limes.push(85);
 
 // ultra lime manager
 members.push('636109710579204099');
@@ -161,7 +161,7 @@ limes.push(135);
 
 // ADAM SALAH
 members.push('595208635009990679');
-limes.push(35);
+limes.push(50);
 
 // Lawn Mower
 members.push('383697086098702337');
@@ -323,7 +323,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}leaderboard`)) {
-		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - ' + limes[1] + ' limes | __LGA LEGEND__ |\n2. zeke - ' + limes[2] + ' limes\n3.Fresh - ' + limes[3] + ' limes | __LGA LEGEND__ |\n4. KARMA - ' + limes[4] + ' limes\n5. Snapple - ' + limes[5] + ' limes\n*Currently viewing top 5 richest penguins*');
+		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - ' + limes[1] + ' limes | __LGA LEGEND__ |\n2. zeke - ' + limes[2] + ' limes\n3.Fresh - ' + limes[3] + ' limes | __LGA LEGEND__ |\n4. f - ' + limes[4] + ' limes\n5. Snapple - ' + limes[5] + ' limes\n*Currently viewing top 5 richest penguins*');
 	}
 	
 	if(message.content.startsWith(`${prefix}moh`)) {
