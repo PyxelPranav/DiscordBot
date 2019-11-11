@@ -219,7 +219,7 @@ client.on('message', message => {
 	}
 	
 	if(message.content.startsWith(`${prefix}bal`)) {
-		var money = eco.FetchBalance(UserID);
+		var money = eco.FetchBalance('510329448357429280');
 		message.channel.send('u have' + money);
 	}	
 
