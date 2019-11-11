@@ -21,7 +21,7 @@ limes.push(1230);
 
 //hippiefresh
 members.push('589550662547800064');
-limes.push(1085);
+limes.push(1100);
 
 //karma
 members.push('221648732368666627');
@@ -29,15 +29,15 @@ limes.push(1080);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1065);
+limes.push(1080);
 
 //sarah
 members.push('463165936275554304');
-limes.push(772);
+limes.push(787);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(175);
+limes.push(190);
 
 //holden
 members.push('335742772722270208');
@@ -45,11 +45,11 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(395);
+limes.push(410);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(120);
+limes.push(135);
 
 //effot
 members.push('312414193259249668');
@@ -197,6 +197,18 @@ limes.push(15);
 
 // djzach
 members.push('400120958121410561');
+limes.push(15);
+
+// *Coke*
+members.push('594339713339621386');
+limes.push(15);
+
+// the pinger
+members.push('604719429284265995');
+limes.push(15);
+
+// Tylund
+members.push('351830700007227393');
 limes.push(15);
 
 client.on('message', message => {
