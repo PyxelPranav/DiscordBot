@@ -339,7 +339,7 @@ client.on('message', message => {
 	}
 	
 	if(message.content.startsWith(`${prefix}mission`)) {
-		message.channel.send('**Mother Lime**\nNovember Mission: 1000 prayers\nProgress: 0% [                     ]\nPrayer stats are updated every hour');	
+		message.channel.send('**Mother Lime**\nNovember Mission: 1000 prayers\nProgress: 1% [=>                                                                                                    ]\nPrayer stats are updated every hour');	
 	}
 	
 	if(message.content.startsWith(`${prefix}status`)) {
