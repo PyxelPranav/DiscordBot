@@ -219,8 +219,8 @@ client.on('message', message => {
 	}
 	
 	if(message.content.startsWith(`${prefix}bal`)) {
-		var money = eco.FetchBalance('510329448357429280');
-		message.channel.send('u have ' + money.balance);
+		var output = await eco.FetchBalance(message.author.id)
+    		message.channel.send(`Hey ${message.author.tag}! You own ${output.balance} coins.`);
 	}	
 
 	if(message.content.startsWith(`${prefix}commands`)) {
