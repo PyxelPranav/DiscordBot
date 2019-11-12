@@ -15,7 +15,7 @@ var limes = [135];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000334);
+limes.push(100000344);
 
 //zeke
 members.push('437016280445222932');
@@ -23,23 +23,23 @@ limes.push(1245);
 
 //hippiefresh
 members.push('589550662547800064');
-limes.push(1115);
+limes.push(1125);
 
 //karma
 members.push('221648732368666627');
-limes.push(1140);
+limes.push(1150);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1125);
+limes.push(1135);
 
 //sarah
 members.push('463165936275554304');
-limes.push(832);
+limes.push(842);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(190);
+limes.push(200);
 
 //holden
 members.push('335742772722270208');
@@ -51,7 +51,7 @@ limes.push(425);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(180);
+limes.push(190);
 
 //effot
 members.push('312414193259249668');
@@ -215,7 +215,7 @@ limes.push(15);
 
 // Swifter
 members.push('376145282683109379');
-limes.push(15);
+limes.push(25);
 
 // jester devil
 members.push('347726192113352705');
@@ -228,6 +228,14 @@ limes.push(15);
 // willtreaty5
 members.push('525068062689329175');
 limes.push(45);
+
+// Niglet
+members.push('604392706940076057');
+limes.push(10);
+
+// Vluby
+members.push('627623217233657897');
+limes.push(10);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}test`)) {
