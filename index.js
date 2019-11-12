@@ -11,7 +11,7 @@ var eco = require('discord-economy')
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [135];
+var limes = [150];
 
 //trev
 members.push('568342089591685120');
@@ -27,19 +27,19 @@ limes.push(1125);
 
 //karma
 members.push('221648732368666627');
-limes.push(1150);
+limes.push(1165);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1135);
+limes.push(1150);
 
 //sarah
 members.push('463165936275554304');
-limes.push(842);
+limes.push(857);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(200);
+limes.push(215);
 
 //holden
 members.push('335742772722270208');
@@ -51,7 +51,7 @@ limes.push(425);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(190);
+limes.push(205);
 
 //effot
 members.push('312414193259249668');
@@ -67,7 +67,7 @@ limes.push(85);
 
 //ajsonic
 members.push('616609825224130561');
-limes.push(100);
+limes.push(115);
 
 //sienna guac
 members.push('418543492663476227');
