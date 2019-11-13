@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-
+//thing
 const { prefix } = '.';
 
 const token = process.env.token;
