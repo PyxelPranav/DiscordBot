@@ -71,7 +71,7 @@ client.on('message', async message => {
 		var member = message.mentions.members.first()
 		let adminRole = message.guild.roles.find("name", "HICOM");
 		if(message.member.roles.has(adminRole.id)) {
-			var output = await eco.SubtractFromBalance(member.id, 5)
+			var output = await eco.SubtractFromBalance(member.id, 10)
 			console.log(output.newbalance);
     		message.channel.send(`10 limes were successfully removed from that account.`);
     	} else {
@@ -83,7 +83,7 @@ client.on('message', async message => {
 		var member = message.mentions.members.first()
 		let adminRole = message.guild.roles.find("name", "HICOM");
 		if(message.member.roles.has(adminRole.id)) {
-			var output = await eco.SubtractFromBalance(member.id, 5)
+			var output = await eco.SubtractFromBalance(member.id, 15)
 			console.log(output.newbalance);
     		message.channel.send(`15 limes were successfully removed from that account.`);
     	} else {
