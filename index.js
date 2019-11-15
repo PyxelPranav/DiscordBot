@@ -17,7 +17,7 @@ limes.push(100000319);
 
 //zeke
 members.push('437016280445222932');
-limes.push(1230);
+limes.push(0);
 
 //hippiefresh
 members.push('589550662547800064');
@@ -81,7 +81,7 @@ limes.push(555);
 
 //miamiala
 members.push('541605885374365717');
-limes.push(105);
+limes.push(120);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -261,7 +261,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('__Upcoming events__\n**Invasion of White House** 11th November @1:30 PM EST; Reward - 15 limes\n**Defense of Summit** 11th November @11:12 PM EST; Reward - 15 limes\n**Defense of Rocky Road** 12th November @12 AM EST; Reward - 15 limes');
+		message.channel.send('__Upcoming events__\n**N2R Battle VS PIC** 16th November @7 PM EST; Reward - 15 limes\n**EU Recruiting**');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
@@ -322,7 +322,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}leaderboard`)) {
-		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - ' + limes[1] + ' limes | __LGA LEGEND__ |\n2. zeke - ' + limes[2] + ' limes\n3.Fresh - ' + limes[3] + ' limes | __LGA LEGEND__ |\n4. f - ' + limes[4] + ' limes\n5. Snapple - ' + limes[5] + ' limes\n*Currently viewing top 5 richest penguins*');
+		message.channel.send('**Lime Green Army Leaderboard**\n1. Greeny - ' + limes[1] + ' limes | __LGA LEGEND__ |\n2.Fresh - ' + limes[3] + ' limes | __LGA LEGEND__ |\n3. Karma - ' + limes[4] + ' limes\n4. Snapple - ' + limes[5] + ' limes\n5. SARAH - ' + limes[6] + ' - *Currently viewing top 5 richest penguins*');
 	}
 	
 	if(message.content.startsWith(`${prefix}moh`)) {
@@ -330,15 +330,7 @@ client.on('message', message => {
 	}
 	
 	if(message.content.startsWith(`${prefix}servers`)) {
-		message.channel.send('LGA Servers - Great White (Capital), Zipline (CPR), Summit (CPATG), Ice Box (CPATG), Yeti (CPATG), Rocky Road (CPATG), Blizzard (Penguin World), Freeo (Free Penguin), Nevasca (Free Penguin)');	
-	}
-	
-	if(message.content.startsWith(`${prefix}pray`)) {
-		message.channel.send('Your prayer has been heard by the prophets. now they gonna see if its real or not lmao just gotta wait');	
-	}
-	
-	if(message.content.startsWith(`${prefix}mission`)) {
-		message.channel.send('**Mother Lime**\nNovember Mission: 1000 prayers\nProgress: 1% [=>                                                                                                    ]\nPrayer stats are updated every hour');	
+		message.channel.send('LGA Servers - https://clubpenguinarmies.com/map/');	
 	}
 	
 	if(message.content.startsWith(`${prefix}status`)) {
@@ -351,7 +343,7 @@ client.on('message', message => {
 	var mb = message.mentions.members.first();
 	if(mb != undefined) var i = mb.id;
 
-	if(i == members[1])
+	if(i == members[28])
 	message.channel.send('Hey! My prefix is ;');
 });
 
