@@ -29,7 +29,7 @@ limes.push(1125);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1110);
+limes.push(1160);
 
 //sarah
 members.push('463165936275554304');
