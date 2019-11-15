@@ -261,7 +261,7 @@ client.on('message', message => {
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
-		message.channel.send('__Upcoming events__\n**N2R Battle VS PIC** 16th November @7 PM EST; Reward - 15 limes\n**EU Recruiting**');
+		message.channel.send('__Upcoming events__\nhttps://www.limegreenarmy.com/p/events.html\nhttps://www.limegreenarmy.com/p/events.html\nhttps://www.limegreenarmy.com/p/recruiting-events.html');
 	}
 	
 	if(message.content.startsWith(`${prefix}ranks`)) {
