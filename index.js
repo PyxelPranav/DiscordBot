@@ -25,11 +25,11 @@ limes.push(1115);
 
 //karma
 members.push('221648732368666627');
-limes.push(1175);
+limes.push(1275);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1160);
+limes.push(1260);
 
 //sarah
 members.push('463165936275554304');
