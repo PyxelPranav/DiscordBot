@@ -167,10 +167,6 @@ limes.push(50);
 members.push('383697086098702337');
 limes.push(55);
 
-// Lana
-members.push('207583953446633473');
-limes.push(15);
-
 // Creevey the Kitten
 members.push('298510008709283844');
 limes.push(30);
@@ -233,6 +229,10 @@ limes.push(30);
 
 // Sarah1
 members.push('214818650647953409');
+limes.push(10);
+
+// Swifter
+members.push('376145282683109379');
 limes.push(10);
 
 client.on('message', message => {
