@@ -293,13 +293,10 @@ client.on('message', message => {
 	}
 	
 	if(message.content.startsWith(`${prefix}count`)) {
-		if(message.member.id == '510329448357429280') {
-			setTimeout(one, 1000);
-			setTimeout(two, 1000);
-			setTimeout(three, 1000);
-		} else {
-			message.channel.send('This is a pyxel-only command.');	
-		}
+		setTimeout(one, 1000);
+		setTimeout(two, 1000);
+		setTimeout(three, 1000);
+		message.channel.send('This is a pyxel-only command.');	
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
