@@ -295,8 +295,8 @@ client.on('message', message => {
 	if(message.content.startsWith(`${prefix}count`)) {
 		if(message.member.id == '510329448357429280') {
 			setTimeout(function() {message.channel.send('1111111111111111111');}, 1000);
-			setTimeout(function() {message.channel.send('2222222222222222222');}, 1000);
-			setTimeout(function() {message.channel.send('3333333333333333333');}, 1000);
+			setTimeout(function() {message.channel.send('2222222222222222222');}, 2000);
+			setTimeout(function() {message.channel.send('3333333333333333333');}, 3000);
 		} else {
 			message.channel.send('This is a pyxel-only command.');	
 		}
