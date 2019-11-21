@@ -297,7 +297,6 @@ client.on('message', message => {
 			setTimeout(function() {message.channel.send('1111111111111111111');}, 1000);
 			setTimeout(function() {message.channel.send('2222222222222222222');}, 3000);
 			setTimeout(function() {message.channel.send('3333333333333333333');}, 6000);
-			message.channel.send('NOW!');
 		} else {
 			message.channel.send('This is a pyxel-only command.');	
 		}
