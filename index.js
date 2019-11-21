@@ -25,19 +25,19 @@ limes.push(1145);
 
 //karma
 members.push('221648732368666627');
-limes.push(1315);
+limes.push(1325);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1300);
+limes.push(1310);
 
 //sarah
 members.push('463165936275554304');
-limes.push(942);
+limes.push(952);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(210);
+limes.push(220);
 
 //holden
 members.push('335742772722270208');
@@ -185,7 +185,7 @@ limes.push(15);
 
 // danicic31
 members.push('561333071236956181');
-limes.push(40);
+limes.push(50);
 
 // Arnor
 members.push('332881071052029954');
@@ -209,11 +209,11 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(45);
+limes.push(55);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(40);
+limes.push(50);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -233,6 +233,14 @@ limes.push(10);
 
 // Swifter
 members.push('376145282683109379');
+limes.push(10);
+
+// AUDIO DEVICE NOT FOUND
+members.push('264530664639037441');
+limes.push(10);
+
+// Zac991
+members.push('625843905967161365');
 limes.push(10);
 
 client.on('message', message => {
