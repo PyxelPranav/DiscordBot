@@ -9,7 +9,7 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [135];
+var limes = [155];
 
 //trev
 members.push('568342089591685120');
@@ -25,15 +25,15 @@ limes.push(1145);
 
 //karma
 members.push('221648732368666627');
-limes.push(1325);
+limes.push(1345);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1310);
+limes.push(1330);
 
 //sarah
 members.push('463165936275554304');
-limes.push(952);
+limes.push(972);
 
 // lavandula
 members.push('328343566482931713');
@@ -45,7 +45,7 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(442);
+limes.push(462);
 
 // dawnables
 members.push('350088765731241984');
@@ -57,7 +57,7 @@ limes.push(35);
 
 // betherzelli
 members.push('504194785288912896');
-limes.push(90);
+limes.push(110);
 
 //gordon ramsay
 members.push('566066628824137740');
@@ -65,7 +65,7 @@ limes.push(70);
 
 //ajsonic
 members.push('616609825224130561');
-limes.push(145);
+limes.push(165);
 
 //sienna guac
 members.push('418543492663476227');
@@ -117,7 +117,7 @@ limes.push(20);
 
 // prragyaa
 members.push('566242994408259585');
-limes.push(95);
+limes.push(115);
 
 // ultra lime manager
 members.push('636109710579204099');
@@ -213,7 +213,7 @@ limes.push(55);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(50);
+limes.push(70);
 
 // Nicknoodles
 members.push('493914187509006356');
