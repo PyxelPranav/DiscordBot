@@ -291,6 +291,16 @@ client.on('message', message => {
 		}
 
 	}
+	
+	if(message.content.startsWith(`${prefix}count`)) {
+		if(message.member.id == '510329448357429280') {
+			setTimeout(one, 1000);
+			setTimeout(two, 1000);
+			setTimeout(three, 1000);
+		} else {
+			message.channel.send('This is a pyxel-only command.');	
+		}
+	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
 		message.channel.send('__Upcoming events__\nhttps://www.limegreenarmy.com/p/events.html\nhttps://www.limegreenarmy.com/p/events.html\nhttps://www.limegreenarmy.com/p/recruiting-events.html');
@@ -378,5 +388,17 @@ client.on('message', message => {
 	if(i == members[28])
 	message.channel.send('Hey! My prefix is ;');
 });
+
+function one() {
+	message.channel.send('1111111111111111111');
+}
+
+function two() {
+	message.channel.send('2222222222222222222');
+}
+
+function three() {
+	message.channel.send('3333333333333333333');
+}
 
 client.login(token).catch(err => console.log(err));
