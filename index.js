@@ -293,10 +293,13 @@ client.on('message', message => {
 	}
 	
 	if(message.content.startsWith(`${prefix}count`)) {
-		setTimeout(one, 1000);
-		setTimeout(two, 1000);
-		setTimeout(three, 1000);
-		message.channel.send('This is a pyxel-only command.');	
+		if(message.member.id == '510329448357429280') {
+			setTimeout(function() {message.channel.send('1111111111111111111');}, 1000);
+			setTimeout(function() {message.channel.send('2222222222222222222');}, 1000);
+			setTimeout(function() {message.channel.send('3333333333333333333');}, 1000);
+		} else {
+			message.channel.send('This is a pyxel-only command.');	
+		}
 	}
 
 	if(message.content.startsWith(`${prefix}event`)) {
@@ -385,17 +388,5 @@ client.on('message', message => {
 	if(i == members[28])
 	message.channel.send('Hey! My prefix is ;');
 });
-
-function one() {
-	message.channel.send('1111111111111111111');
-}
-
-function two() {
-	message.channel.send('2222222222222222222');
-}
-
-function three() {
-	message.channel.send('3333333333333333333');
-}
 
 client.login(token).catch(err => console.log(err));
