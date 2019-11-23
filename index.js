@@ -25,15 +25,15 @@ limes.push(1145);
 
 //karma
 members.push('221648732368666627');
-limes.push(1370);
+limes.push(1380);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1355);
+limes.push(1365);
 
 //sarah
 members.push('463165936275554304');
-limes.push(997);
+limes.push(1007);
 
 // lavandula
 members.push('328343566482931713');
@@ -57,7 +57,7 @@ limes.push(35);
 
 // betherzelli
 members.push('504194785288912896');
-limes.push(110);
+limes.push(120);
 
 //gordon ramsay
 members.push('566066628824137740');
@@ -137,7 +137,7 @@ limes.push(15);
 
 //austin
 members.push('131947629088079872');
-limes.push(15);
+limes.push(25);
 
 //robloxgamer1
 members.push('474143572073906195');
@@ -213,7 +213,7 @@ limes.push(80);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(95);
+limes.push(105);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -225,7 +225,7 @@ limes.push(20);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(40);
+limes.push(50);
 
 // Sarah1
 members.push('214818650647953409');
