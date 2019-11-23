@@ -13,7 +13,7 @@ var limes = [155];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000319);
+limes.push(100000329);
 
 //zeke
 members.push('437016280445222932');
@@ -21,23 +21,23 @@ limes.push(0);
 
 //hippiefresh
 members.push('589550662547800064');
-limes.push(1145);
+limes.push(1155);
 
 //karma
 members.push('221648732368666627');
-limes.push(1380);
+limes.push(1390);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1365);
+limes.push(1375);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1007);
+limes.push(1017);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(235);
+limes.push(245);
 
 //holden
 members.push('335742772722270208');
@@ -81,7 +81,7 @@ limes.push(555);
 
 //miamiala
 members.push('541605885374365717');
-limes.push(130);
+limes.push(140);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -209,11 +209,11 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(80);
+limes.push(90);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(105);
+limes.push(115);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -237,7 +237,7 @@ limes.push(25);
 
 // AUDIO DEVICE NOT FOUND
 members.push('264530664639037441');
-limes.push(20);
+limes.push(30);
 
 // Zac991
 members.push('625843905967161365');
@@ -245,11 +245,11 @@ limes.push(10);
 
 // egbean
 members.push('513811538155667486');
-limes.push(10);
+limes.push(20);
 
 // willtreaty5
 members.push('525068062689329175');
-limes.push(15);
+limes.push(25);
 
 // Vluby
 members.push('627623217233657897');
@@ -258,6 +258,10 @@ limes.push(15);
 // im just bacon
 members.push('627623217233657897');
 limes.push(90);
+
+// Plushy
+members.push('551785306253426708');
+limes.push(10);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
