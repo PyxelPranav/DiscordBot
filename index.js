@@ -255,6 +255,10 @@ limes.push(15);
 members.push('627623217233657897');
 limes.push(15);
 
+// im just bacon
+members.push('627623217233657897');
+limes.push(90);
+
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
 		message.channel.send('**Ultra Lime Manager Commands**\n--------------------------------------\n;balance - Check your balance\n;event - Check the upcoming event\n;acc <user> - Checks the amount of limes in that users account\n;commands - Open up the commands list\n;help - Open up the commands list\n;bio <legend> - View the bio of an LGA legend\n;leaderboard - View the lime leaderboard\n;ranks - View LGA ranks\n;uniform - View LGA uniform\n;status - View your rank in LGA\n;moh - View the recipients of the Medal of Honour\n;servers - View the territory of Lime Green Nation');
@@ -380,7 +384,7 @@ client.on('message', message => {
 	}
 	
 	if(message.content.startsWith(`${prefix}moh`)) {
-		message.channel.send('Medal of Honour recipients are as follows: \nToo44 (2013)\nTom67678 (2013)\nTyler56567 (2013)\nEpicolizard (2013)\nSkyfish (2013)\nWarriorsrevenge (2013)\nMasterTanic (2013)\nPopcorny (2014)\nJustinfortsa (2014)\nAndy21441 (2014)\nEmperor Flor (2014)\nAy12 (2014)\nRyu (2014)\nApollo (2014)\nDunno (2014)\nArceus1296 (2014)\nRedstar (2016)\nSamsungy (2016)\nPikachu624 (2016) \nZeke (2019)\nKarma (2019)\nSnapple (2019)');	
+		message.channel.send('Medal of Honour recipients are as follows: \nToo44 (2013)\nTom67678 (2013)\nTyler56567 (2013)\nEpicolizard (2013)\nSkyfish (2013)\nWarriorsrevenge (2013)\nMasterTanic (2013)\nPopcorny (2014)\nJustinfortsa (2014)\nAndy21441 (2014)\nEmperor Flor (2014)\nAy12 (2014)\nRyu (2014)\nApollo (2014)\nDunno (2014)\nArceus1296 (2014)\nRedstar (2016)\nSamsungy (2016)\nPikachu624 (2016) \nZeke (2019)\nKarma (2019)\nSnapple (2019)\\nSarah (2019)');	
 	}
 	
 	if(message.content.startsWith(`${prefix}servers`)) {
