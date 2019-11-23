@@ -25,19 +25,19 @@ limes.push(1145);
 
 //karma
 members.push('221648732368666627');
-limes.push(1355);
+limes.push(1370);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1340);
+limes.push(1355);
 
 //sarah
 members.push('463165936275554304');
-limes.push(982);
+limes.push(997);
 
 // lavandula
 members.push('328343566482931713');
-limes.push(220);
+limes.push(235);
 
 //holden
 members.push('335742772722270208');
@@ -45,11 +45,11 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(462);
+limes.push(477);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(175);
+limes.push(190);
 
 //effot
 members.push('312414193259249668');
@@ -209,11 +209,11 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(65);
+limes.push(80);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(80);
+limes.push(95);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -229,11 +229,11 @@ limes.push(40);
 
 // Sarah1
 members.push('214818650647953409');
-limes.push(10);
+limes.push(25);
 
-// Swifter
+// Jif
 members.push('376145282683109379');
-limes.push(10);
+limes.push(25);
 
 // AUDIO DEVICE NOT FOUND
 members.push('264530664639037441');
@@ -246,6 +246,14 @@ limes.push(10);
 // egbean
 members.push('513811538155667486');
 limes.push(10);
+
+// willtreaty5
+members.push('525068062689329175');
+limes.push(15);
+
+// Vluby
+members.push('627623217233657897');
+limes.push(15);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
