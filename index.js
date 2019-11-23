@@ -25,15 +25,15 @@ limes.push(1145);
 
 //karma
 members.push('221648732368666627');
-limes.push(1345);
+limes.push(1355);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1330);
+limes.push(1340);
 
 //sarah
 members.push('463165936275554304');
-limes.push(972);
+limes.push(982);
 
 // lavandula
 members.push('328343566482931713');
@@ -199,9 +199,9 @@ limes.push(15);
 members.push('594339713339621386');
 limes.push(30);
 
-// the pinger
+// i get electrocuted
 members.push('604719429284265995');
-limes.push(15);
+limes.push(25);
 
 // Tylund
 members.push('351830700007227393');
@@ -209,11 +209,11 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(55);
+limes.push(65);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(70);
+limes.push(80);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -225,7 +225,7 @@ limes.push(20);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(30);
+limes.push(40);
 
 // Sarah1
 members.push('214818650647953409');
@@ -237,10 +237,14 @@ limes.push(10);
 
 // AUDIO DEVICE NOT FOUND
 members.push('264530664639037441');
-limes.push(10);
+limes.push(20);
 
 // Zac991
 members.push('625843905967161365');
+limes.push(10);
+
+// egbean
+members.push('513811538155667486');
 limes.push(10);
 
 client.on('message', message => {
