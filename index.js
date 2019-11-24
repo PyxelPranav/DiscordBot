@@ -89,7 +89,7 @@ limes.push(15);
 
 // jingle
 members.push('307701567019024384');
-limes.push(60);
+limes.push(70);
 
 // miles edgeworth
 members.push('497554422931652608');
