@@ -13,7 +13,7 @@ var limes = [155];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000339);
+limes.push(100000349);
 
 //zeke
 members.push('437016280445222932');
@@ -81,7 +81,7 @@ limes.push(555);
 
 //miamiala
 members.push('541605885374365717');
-limes.push(140);
+limes.push(150);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -209,7 +209,7 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(110);
+limes.push(120);
 
 // Mashu
 members.push('318688423739392000');
