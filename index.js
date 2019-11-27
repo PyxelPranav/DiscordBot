@@ -13,7 +13,7 @@ var limes = [155];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000329);
+limes.push(100000339);
 
 //zeke
 members.push('437016280445222932');
@@ -21,19 +21,19 @@ limes.push(0);
 
 //hippiefresh
 members.push('589550662547800064');
-limes.push(1165);
+limes.push(1175);
 
 //karma
 members.push('221648732368666627');
-limes.push(1390);
+limes.push(1400);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1375);
+limes.push(1385);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1027);
+limes.push(1037);
 
 // lavandula
 members.push('328343566482931713');
@@ -49,7 +49,7 @@ limes.push(487);
 
 // dawnables
 members.push('350088765731241984');
-limes.push(190);
+limes.push(200);
 
 //effot
 members.push('312414193259249668');
@@ -209,11 +209,11 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(100);
+limes.push(110);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(125);
+limes.push(135);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -245,7 +245,7 @@ limes.push(10);
 
 // egbean
 members.push('513811538155667486');
-limes.push(30);
+limes.push(40);
 
 // willtreaty5
 members.push('525068062689329175');
@@ -269,6 +269,10 @@ limes.push(10);
 
 // Memmaw
 members.push('359624483717382148');
+limes.push(10);
+
+// 13yearoldnoob
+members.push('587002571135123476');
 limes.push(10);
 
 client.on('message', message => {
