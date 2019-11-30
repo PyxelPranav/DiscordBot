@@ -13,7 +13,7 @@ var limes = [155];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000349);
+limes.push(100000364);
 
 //zeke
 members.push('437016280445222932');
@@ -21,15 +21,15 @@ limes.push(0);
 
 //hippiefresh
 members.push('589550662547800064');
-limes.push(1175);
+limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1400);
+limes.push(1415);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1385);
+limes.push(1400);
 
 //sarah
 members.push('463165936275554304');
@@ -153,7 +153,7 @@ limes.push(45);
 
 //Tymatt
 members.push('305564823356178432');
-limes.push(75);
+limes.push(90);
 
 //Blazes
 members.push('351721870917238784');
@@ -181,7 +181,7 @@ limes.push(15);
 
 // Austin
 members.push('131947629088079872');
-limes.push(15);
+limes.push(30);
 
 // danicic31
 members.push('561333071236956181');
@@ -209,11 +209,11 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(120);
+limes.push(135);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(135);
+limes.push(150);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -221,7 +221,7 @@ limes.push(20);
 
 // Hirijo
 members.push('298159528468414464');
-limes.push(20);
+limes.push(35);
 
 // Moshi
 members.push('519649125063458827');
@@ -229,7 +229,7 @@ limes.push(50);
 
 // Sarah1
 members.push('214818650647953409');
-limes.push(35);
+limes.push(50);
 
 // Jif
 members.push('376145282683109379');
@@ -269,11 +269,23 @@ limes.push(10);
 
 // Memmaw
 members.push('359624483717382148');
-limes.push(10);
+limes.push(25);
 
 // 13yearoldnoob
 members.push('587002571135123476');
 limes.push(10);
+
+// The Sniper
+members.push('460248756873330738');
+limes.push(15);
+
+// Drunken Springtrap
+members.push('302237216908902410');
+limes.push(15);
+
+// JayGamerPro
+members.push('490993144402280449');
+limes.push(15);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
