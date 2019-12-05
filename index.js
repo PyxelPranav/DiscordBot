@@ -13,7 +13,7 @@ var limes = [155];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000364);
+limes.push(100000369);
 
 //zeke
 members.push('437016280445222932');
@@ -25,15 +25,14 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1415);
+limes.push(1420);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1400);
+limes.push(1405);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1037);
 
 // lavandula
 members.push('328343566482931713');
@@ -81,7 +80,7 @@ limes.push(555);
 
 //miamiala
 members.push('541605885374365717');
-limes.push(150);
+limes.push(155);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -89,7 +88,7 @@ limes.push(15);
 
 // jingle
 members.push('307701567019024384');
-limes.push(70);
+limes.push(75);
 
 // miles edgeworth
 members.push('497554422931652608');
@@ -165,7 +164,7 @@ limes.push(50);
 
 // Lawn Mower
 members.push('383697086098702337');
-limes.push(55);
+limes.push(60);
 
 // Creevey the Kitten
 members.push('298510008709283844');
@@ -209,7 +208,7 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(135);
+limes.push(140);
 
 // Mashu
 members.push('318688423739392000');
@@ -235,9 +234,9 @@ limes.push(50);
 members.push('376145282683109379');
 limes.push(25);
 
-// AUDIO DEVICE NOT FOUND
+// Thursday
 members.push('264530664639037441');
-limes.push(30);
+limes.push(35);
 
 // Zac991
 members.push('625843905967161365');
@@ -286,6 +285,10 @@ limes.push(15);
 // JayGamerPro
 members.push('490993144402280449');
 limes.push(15);
+
+// Thomas The Dank Engine
+members.push('460502437015453717');
+limes.push(5);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
