@@ -13,7 +13,7 @@ var limes = [155];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000369);
+limes.push(100000374);
 
 //zeke
 members.push('437016280445222932');
@@ -25,15 +25,15 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1420);
+limes.push(1425);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1405);
+limes.push(1410);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1057);
+limes.push(1062);
 
 // lavandula
 members.push('328343566482931713');
@@ -45,7 +45,7 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(487);
+limes.push(492);
 
 // dawnables
 members.push('350088765731241984');
@@ -157,7 +157,7 @@ limes.push(90);
 
 //Blazes
 members.push('351721870917238784');
-limes.push(135);
+limes.push(140);
 
 // ADAM SALAH
 members.push('595208635009990679');
@@ -209,7 +209,7 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(140);
+limes.push(145);
 
 // Mashu
 members.push('318688423739392000');
@@ -237,7 +237,7 @@ limes.push(25);
 
 // Thursday
 members.push('264530664639037441');
-limes.push(35);
+limes.push(40);
 
 // Zac991
 members.push('625843905967161365');
@@ -245,7 +245,7 @@ limes.push(10);
 
 // egbean
 members.push('513811538155667486');
-limes.push(40);
+limes.push(45);
 
 // willtreaty5
 members.push('525068062689329175');
@@ -285,10 +285,14 @@ limes.push(15);
 
 // JayGamerPro
 members.push('490993144402280449');
-limes.push(15);
+limes.push(20);
 
 // Thomas The Dank Engine
 members.push('460502437015453717');
+limes.push(5);
+
+// Xenomorth
+members.push('639234943549046804');
 limes.push(5);
 
 client.on('message', message => {
