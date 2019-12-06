@@ -35,10 +35,6 @@ limes.push(1410);
 members.push('463165936275554304');
 limes.push(1062);
 
-// lavandula
-members.push('328343566482931713');
-limes.push(245);
-
 //holden
 members.push('335742772722270208');
 limes.push(45);
@@ -46,10 +42,6 @@ limes.push(45);
 //dino
 members.push('281525414520946689');
 limes.push(492);
-
-// dawnables
-members.push('350088765731241984');
-limes.push(200);
 
 //effot
 members.push('312414193259249668');
