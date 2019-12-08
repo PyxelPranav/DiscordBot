@@ -13,7 +13,7 @@ var limes = [155];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000374);
+limes.push(100000384);
 
 //zeke
 members.push('437016280445222932');
@@ -25,11 +25,11 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1425);
+limes.push(1435);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1410);
+limes.push(1420);
 
 //sarah
 members.push('463165936275554304');
@@ -201,11 +201,11 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(145);
+limes.push(155);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(150);
+limes.push(189);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -237,7 +237,7 @@ limes.push(10);
 
 // egbean
 members.push('513811538155667486');
-limes.push(45);
+limes.push(55);
 
 // willtreaty5
 members.push('525068062689329175');
@@ -277,7 +277,7 @@ limes.push(15);
 
 // JayGamerPro
 members.push('490993144402280449');
-limes.push(20);
+limes.push(30);
 
 // Thomas The Dank Engine
 members.push('460502437015453717');
@@ -285,7 +285,7 @@ limes.push(5);
 
 // Xenomorth
 members.push('639234943549046804');
-limes.push(5);
+limes.push(15);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
