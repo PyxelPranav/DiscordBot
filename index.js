@@ -25,7 +25,7 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1435);
+limes.push(1440);
 
 //snapple
 members.push('270337506581544961');
@@ -33,7 +33,7 @@ limes.push(1420);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1062);
+limes.push(1067);
 
 //holden
 members.push('335742772722270208');
@@ -149,7 +149,7 @@ limes.push(90);
 
 //Blazes
 members.push('351721870917238784');
-limes.push(140);
+limes.push(145);
 
 // ADAM SALAH
 members.push('595208635009990679');
