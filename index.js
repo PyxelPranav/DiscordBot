@@ -13,7 +13,7 @@ var limes = [155];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000384);
+limes.push(100000389);
 
 //zeke
 members.push('437016280445222932');
@@ -29,7 +29,7 @@ limes.push(1440);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1420);
+limes.push(1425);
 
 //sarah
 members.push('463165936275554304');
@@ -201,11 +201,11 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(155);
+limes.push(160);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(189);
+limes.push(194);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -227,9 +227,9 @@ limes.push(50);
 members.push('376145282683109379');
 limes.push(25);
 
-// Thursday
+// beep
 members.push('264530664639037441');
-limes.push(40);
+limes.push(45);
 
 // Zac991
 members.push('625843905967161365');
@@ -286,6 +286,10 @@ limes.push(5);
 // Xenomorth
 members.push('639234943549046804');
 limes.push(15);
+
+// Hickla
+members.push('551873933213827094');
+limes.push(5);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
