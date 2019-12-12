@@ -13,7 +13,7 @@ var limes = [155];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000389);
+limes.push(100000394);
 
 //zeke
 members.push('437016280445222932');
@@ -25,15 +25,15 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1445);
+limes.push(1450);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1430);
+limes.push(1435);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1072);
+limes.push(1077);
 
 //holden
 members.push('335742772722270208');
@@ -201,7 +201,7 @@ limes.push(15);
 
 // Manu
 members.push('602359275758682146');
-limes.push(165);
+limes.push(170);
 
 // Mashu
 members.push('318688423739392000');
@@ -229,7 +229,7 @@ limes.push(25);
 
 // beep
 members.push('264530664639037441');
-limes.push(45);
+limes.push(50);
 
 // Zac991
 members.push('625843905967161365');
@@ -289,7 +289,7 @@ limes.push(15);
 
 // Hickla
 members.push('551873933213827094');
-limes.push(10);
+limes.push(15);
 
 // Electric Yammie
 members.push('570673408556269580');
