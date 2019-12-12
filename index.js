@@ -297,7 +297,7 @@ limes.push(.69);
 
 // Crazzy
 members.push('570673408556269580');
-limes.push(1);
+limes.push(1.2);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
