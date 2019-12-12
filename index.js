@@ -295,6 +295,10 @@ limes.push(15);
 members.push('570673408556269580');
 limes.push(.69);
 
+// Crazzy
+members.push('570673408556269580');
+limes.push(1);
+
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
 		message.channel.send('**Ultra Lime Manager Commands**\n--------------------------------------\n;balance - Check your balance\n;event - Check the upcoming event\n;acc <user> - Checks the amount of limes in that users account\n;commands - Open up the commands list\n;help - Open up the commands list\n;bio <legend> - View the bio of an LGA legend\n;leaderboard - View the lime leaderboard\n;ranks - View LGA ranks\n;uniform - View LGA uniform\n;status - View your rank in LGA\n;moh - View the recipients of the Medal of Honour\n;servers - View the territory of Lime Green Nation');
