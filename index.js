@@ -13,7 +13,7 @@ var limes = [155];
 
 //trev
 members.push('568342089591685120');
-limes.push(100000394);
+limes.push(100000399);
 
 //zeke
 members.push('437016280445222932');
@@ -29,11 +29,11 @@ limes.push(1450);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1435);
+limes.push(1440);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1077);
+limes.push(1082);
 
 //holden
 members.push('335742772722270208');
@@ -73,7 +73,7 @@ limes.push(555);
 
 //miamiala
 members.push('541605885374365717');
-limes.push(155);
+limes.push(160);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -205,7 +205,7 @@ limes.push(170);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(194);
+limes.push(199);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -285,7 +285,7 @@ limes.push(5);
 
 // Xenomorth
 members.push('639234943549046804');
-limes.push(15);
+limes.push(20);
 
 // Hickla
 members.push('551873933213827094');
