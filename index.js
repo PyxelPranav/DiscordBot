@@ -217,7 +217,7 @@ limes.push(35);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(55);
+limes.push(70);
 
 // Sarah1
 members.push('214818650647953409');
@@ -296,7 +296,7 @@ members.push('570673408556269580');
 limes.push(.69);
 
 // Crazzy
-members.push('570673408556269580');
+members.push('352509356182339584');
 limes.push(1.2);
 
 client.on('message', message => {
