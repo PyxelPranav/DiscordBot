@@ -25,15 +25,15 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1450);
+limes.push(1465);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1440);
+limes.push(1455);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1082);
+limes.push(1097);
 
 //holden
 members.push('335742772722270208');
@@ -81,7 +81,7 @@ limes.push(15);
 
 // jingle
 members.push('307701567019024384');
-limes.push(80);
+limes.push(95);
 
 // miles edgeworth
 members.push('497554422931652608');
@@ -185,7 +185,7 @@ limes.push(15);
 
 // djzach
 members.push('400120958121410561');
-limes.push(15);
+limes.push(30);
 
 // *Coke*
 members.push('594339713339621386');
@@ -229,7 +229,7 @@ limes.push(25);
 
 // beep
 members.push('264530664639037441');
-limes.push(50);
+limes.push(65);
 
 // Zac991
 members.push('625843905967161365');
@@ -269,7 +269,7 @@ limes.push(10);
 
 // The Sniper
 members.push('460248756873330738');
-limes.push(15);
+limes.push(30);
 
 // Drunken Springtrap
 members.push('302237216908902410');
@@ -277,7 +277,7 @@ limes.push(15);
 
 // JayGamerPro
 members.push('490993144402280449');
-limes.push(35);
+limes.push(50);
 
 // Thomas The Dank Engine
 members.push('460502437015453717');
@@ -289,7 +289,7 @@ limes.push(20);
 
 // Hickla
 members.push('551873933213827094');
-limes.push(15);
+limes.push(30);
 
 // Electric Yammie
 members.push('570673408556269580');
