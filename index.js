@@ -29,11 +29,11 @@ limes.push(1480);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1470);
+limes.push(1475);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1112);
+limes.push(1117);
 
 //holden
 members.push('335742772722270208');
@@ -205,7 +205,7 @@ limes.push(170);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(229);
+limes.push(234);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -217,7 +217,7 @@ limes.push(35);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(95);
+limes.push(100);
 
 // Sarah1
 members.push('214818650647953409');
@@ -237,7 +237,7 @@ limes.push(10);
 
 // egbean
 members.push('513811538155667486');
-limes.push(60);
+limes.push(65);
 
 // willtreaty5
 members.push('525068062689329175');
@@ -285,11 +285,11 @@ limes.push(5);
 
 // Xenomorth
 members.push('639234943549046804');
-limes.push(20);
+limes.push(25);
 
 // Hickla
 members.push('551873933213827094');
-limes.push(30);
+limes.push(35);
 
 // Electric Yammie
 members.push('570673408556269580');
