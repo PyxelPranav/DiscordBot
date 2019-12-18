@@ -25,15 +25,15 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1480);
+limes.push(1495);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1475);
+limes.push(1490);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1117);
+limes.push(1132);
 
 //holden
 members.push('335742772722270208');
@@ -205,7 +205,7 @@ limes.push(170);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(234);
+limes.push(249);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -217,11 +217,11 @@ limes.push(35);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(100);
+limes.push(115);
 
 // Sarah1
 members.push('214818650647953409');
-limes.push(70);
+limes.push(85);
 
 // Jif
 members.push('376145282683109379');
@@ -237,7 +237,7 @@ limes.push(10);
 
 // egbean
 members.push('513811538155667486');
-limes.push(65);
+limes.push(80);
 
 // willtreaty5
 members.push('525068062689329175');
@@ -289,7 +289,7 @@ limes.push(25);
 
 // Hickla
 members.push('551873933213827094');
-limes.push(35);
+limes.push(50);
 
 // Electric Yammie
 members.push('570673408556269580');
@@ -298,6 +298,10 @@ limes.push(.69);
 // Crazzy
 members.push('352509356182339584');
 limes.push(1.2);
+
+// Bronwyn10
+members.push('614347706646659076');
+limes.push(15);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
