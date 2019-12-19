@@ -25,15 +25,15 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1495);
+limes.push(1510);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1490);
+limes.push(1505);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1132);
+limes.push(1152);
 
 //holden
 members.push('335742772722270208');
@@ -205,7 +205,7 @@ limes.push(170);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(249);
+limes.push(269);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -217,11 +217,11 @@ limes.push(35);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(115);
+limes.push(135);
 
 // Sarah1
 members.push('214818650647953409');
-limes.push(85);
+limes.push(100);
 
 // Jif
 members.push('376145282683109379');
@@ -237,7 +237,7 @@ limes.push(10);
 
 // egbean
 members.push('513811538155667486');
-limes.push(80);
+limes.push(95);
 
 // willtreaty5
 members.push('525068062689329175');
@@ -277,7 +277,7 @@ limes.push(15);
 
 // JayGamerPro
 members.push('490993144402280449');
-limes.push(50);
+limes.push(65);
 
 // Thomas The Dank Engine
 members.push('460502437015453717');
@@ -285,11 +285,11 @@ limes.push(5);
 
 // Xenomorth
 members.push('639234943549046804');
-limes.push(25);
+limes.push(30);
 
 // Hickla
 members.push('551873933213827094');
-limes.push(50);
+limes.push(70);
 
 // Electric Yammie
 members.push('570673408556269580');
@@ -301,7 +301,7 @@ limes.push(1.2);
 
 // Bronwyn10
 members.push('614347706646659076');
-limes.push(15);
+limes.push(35);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
