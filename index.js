@@ -9,7 +9,7 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [170];
+var limes = [185];
 
 //trev
 members.push('568342089591685120');
@@ -25,11 +25,11 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1510);
+limes.push(1525);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1505);
+limes.push(1520);
 
 //sarah
 members.push('463165936275554304');
@@ -125,7 +125,7 @@ limes.push(15);
 
 //snipershan
 members.push('492711291836956678');
-limes.push(15);
+limes.push(30);
 
 //austin
 members.push('131947629088079872');
@@ -205,7 +205,7 @@ limes.push(170);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(269);
+limes.push(284);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -217,7 +217,7 @@ limes.push(35);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(135);
+limes.push(150);
 
 // Sarah1
 members.push('214818650647953409');
