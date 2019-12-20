@@ -9,7 +9,7 @@ client.once('ready', () => {
 
 // pyxelpranav
 var members = ['510329448357429280'];
-var limes = [185];
+var limes = [215];
 
 //trev
 members.push('568342089591685120');
@@ -25,11 +25,11 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1555);
+limes.push(1585);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1550);
+limes.push(1580);
 
 //sarah
 members.push('463165936275554304');
@@ -81,7 +81,7 @@ limes.push(15);
 
 // jingle
 members.push('307701567019024384');
-limes.push(95);
+limes.push(125);
 
 // miles edgeworth
 members.push('497554422931652608');
@@ -153,7 +153,7 @@ limes.push(145);
 
 // ADAM SALAH
 members.push('595208635009990679');
-limes.push(50);
+limes.push(85);
 
 // Lawn Mower
 members.push('383697086098702337');
@@ -205,7 +205,7 @@ limes.push(170);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(299);
+limes.push(329);
 
 // Nicknoodles
 members.push('493914187509006356');
