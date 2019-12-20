@@ -25,15 +25,15 @@ limes.push(1190);
 
 //karma
 members.push('221648732368666627');
-limes.push(1525);
+limes.push(1555);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1520);
+limes.push(1550);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1152);
+limes.push(1167);
 
 //holden
 members.push('335742772722270208');
@@ -57,7 +57,7 @@ limes.push(70);
 
 //ajsonic
 members.push('616609825224130561');
-limes.push(165);
+limes.push(180);
 
 //sienna guac
 members.push('418543492663476227');
@@ -73,7 +73,7 @@ limes.push(555);
 
 //miamiala
 members.push('541605885374365717');
-limes.push(160);
+limes.push(175);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -205,7 +205,7 @@ limes.push(170);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(284);
+limes.push(299);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -217,7 +217,7 @@ limes.push(35);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(150);
+limes.push(180);
 
 // Sarah1
 members.push('214818650647953409');
@@ -237,7 +237,7 @@ limes.push(10);
 
 // egbean
 members.push('513811538155667486');
-limes.push(95);
+limes.push(110);
 
 // willtreaty5
 members.push('525068062689329175');
@@ -285,11 +285,11 @@ limes.push(5);
 
 // Xenomorth
 members.push('639234943549046804');
-limes.push(30);
+limes.push(45);
 
 // Hickla
 members.push('551873933213827094');
-limes.push(70);
+limes.push(85);
 
 // Electric Yammie
 members.push('570673408556269580');
@@ -301,7 +301,7 @@ limes.push(1.2);
 
 // Bronwyn10
 members.push('614347706646659076');
-limes.push(35);
+limes.push(65);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
