@@ -73,7 +73,7 @@ limes.push(555);
 
 //miamiala
 members.push('541605885374365717');
-limes.push(175);
+limes.push(180);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -217,7 +217,7 @@ limes.push(35);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(180);
+limes.push(185);
 
 // Sarah1
 members.push('214818650647953409');
@@ -285,7 +285,7 @@ limes.push(5);
 
 // Xenomorth
 members.push('639234943549046804');
-limes.push(45);
+limes.push(50);
 
 // Hickla
 members.push('551873933213827094');
@@ -301,7 +301,7 @@ limes.push(1.2);
 
 // Bronwyn10
 members.push('614347706646659076');
-limes.push(65);
+limes.push(70);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
