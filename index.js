@@ -29,11 +29,11 @@ limes.push(1585);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1580);
+limes.push(1595);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1167);
+limes.push(1182);
 
 //holden
 members.push('335742772722270208');
@@ -41,7 +41,7 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(492);
+limes.push(507);
 
 //effot
 members.push('312414193259249668');
@@ -205,7 +205,7 @@ limes.push(170);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(329);
+limes.push(349);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -217,7 +217,7 @@ limes.push(35);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(185);
+limes.push(200);
 
 // Sarah1
 members.push('214818650647953409');
@@ -267,9 +267,9 @@ limes.push(25);
 members.push('587002571135123476');
 limes.push(10);
 
-// The Sniper
+// iceguy163
 members.push('460248756873330738');
-limes.push(30);
+limes.push(45);
 
 // Drunken Springtrap
 members.push('302237216908902410');
@@ -285,7 +285,7 @@ limes.push(5);
 
 // Xenomorth
 members.push('639234943549046804');
-limes.push(50);
+limes.push(65);
 
 // Hickla
 members.push('551873933213827094');
@@ -301,7 +301,11 @@ limes.push(1.2);
 
 // Bronwyn10
 members.push('614347706646659076');
-limes.push(70);
+limes.push(85);
+
+// Master
+members.push('551128834595094530');
+limes.push(15);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
