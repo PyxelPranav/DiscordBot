@@ -305,7 +305,7 @@ limes.push(135);
 
 // Master
 members.push('551128834595094530');
-limes.push(35);
+limes.push(50);
 
 // Coastal
 members.push('560630830175879170');
