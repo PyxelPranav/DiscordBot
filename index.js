@@ -29,11 +29,11 @@ limes.push(1585);
 
 //snapple
 members.push('270337506581544961');
-limes.push(1610);
+limes.push(1625);
 
 //sarah
 members.push('463165936275554304');
-limes.push(1203);
+limes.push(1218);
 
 //holden
 members.push('335742772722270208');
@@ -41,7 +41,7 @@ limes.push(45);
 
 //dino
 members.push('281525414520946689');
-limes.push(527);
+limes.push(542);
 
 //effot
 members.push('312414193259249668');
@@ -73,7 +73,7 @@ limes.push(555);
 
 //miamiala
 members.push('541605885374365717');
-limes.push(195);
+limes.push(210);
 
 //doggeagoden
 members.push('588465678571405441');
@@ -81,7 +81,7 @@ limes.push(15);
 
 // jingle
 members.push('307701567019024384');
-limes.push(130);
+limes.push(145);
 
 // miles edgeworth
 members.push('497554422931652608');
@@ -125,7 +125,7 @@ limes.push(15);
 
 //snipershan
 members.push('492711291836956678');
-limes.push(30);
+limes.push(45);
 
 //austin
 members.push('131947629088079872');
@@ -205,7 +205,7 @@ limes.push(170);
 
 // Mashu
 members.push('318688423739392000');
-limes.push(354);
+limes.push(369);
 
 // Nicknoodles
 members.push('493914187509006356');
@@ -217,7 +217,7 @@ limes.push(35);
 
 // Moshi
 members.push('519649125063458827');
-limes.push(205);
+limes.push(220);
 
 // Sarah1
 members.push('214818650647953409');
@@ -285,7 +285,7 @@ limes.push(5);
 
 // Xenomorth
 members.push('639234943549046804');
-limes.push(80);
+limes.push(95);
 
 // Hickla
 members.push('551873933213827094');
@@ -293,7 +293,7 @@ limes.push(85);
 
 // Electric Yammie
 members.push('570673408556269580');
-limes.push(.69);
+limes.push(15.69);
 
 // Crazzy
 members.push('352509356182339584');
@@ -301,15 +301,23 @@ limes.push(1.2);
 
 // Bronwyn10
 members.push('614347706646659076');
-limes.push(105);
+limes.push(135);
 
 // Master
 members.push('551128834595094530');
-limes.push(20);
+limes.push(35);
 
 // Coastal
 members.push('560630830175879170');
 limes.push(20);
+
+// Pookie
+members.push('450085125515116544');
+limes.push(15);
+
+// brattybottom
+members.push('562164253163913218');
+limes.push(15);
 
 client.on('message', message => {
 	if(message.content.startsWith(`${prefix}commands`)) {
