@@ -17,7 +17,7 @@ limes.push(100000399);
 
 //zeke
 members.push('437016280445222932');
-limes.push(0);
+limes.push(25000);
 
 //hippiefresh
 members.push('589550662547800064');
